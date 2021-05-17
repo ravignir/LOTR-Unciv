@@ -327,6 +327,7 @@
 		"defeated": "You fiend! History shall remember this!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [185,132,66],
+		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Beorn's Hall"]
 	},
 	{
@@ -339,6 +340,7 @@
 		"defeated": "They will write songs of this.... pray that they shall be in your favor.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [62,197,252],
+				"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Tom Bombadil's House"]
 	},
 	{
@@ -352,6 +354,7 @@
 		"defeated": "They will write songs of this.... pray that they shall be in your favor.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [211, 220, 103],
+				"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Lake Town"]
 	},
 	{
@@ -365,6 +368,7 @@
 		"defeated": "They will write songs of this.... pray that they shall be in your favor.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [194,97,255],
+		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Dale"]
 	},
 	{
@@ -377,6 +381,7 @@
 		"defeated": "A lonely wind blows through the highlands today. A dirge for Dunland. Can you hear it?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [211,180,113],
+		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Dunland"]
 	},
 	{
@@ -390,6 +395,7 @@
 		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,97,255],
+		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Tol Morwen"]
 	},
 	{
@@ -403,6 +409,7 @@
 		"defeated": "How barbaric. Those who live by the sword shall perish by the sword.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,69,0],
+		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Numenor"]
 	},
 	{
@@ -416,6 +423,7 @@
 		"defeated": "How barbaric. Those who live by the sword shall perish by the sword.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [45,255,86],
+		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Bree"]
 	},
 	{
@@ -429,6 +437,7 @@
 		"defeated": "A wrong calculation, on my part.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [153,204,255],
+		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Himling"]
 	},
 	{
@@ -441,6 +450,7 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [153,255,51],
+		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Eagle's Eyrie"]
 	},
 	{
@@ -453,6 +463,7 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [153,0,76],
+		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Entwood"]
 	},
 	{
@@ -465,6 +476,7 @@
 		"defeated": "What a fine battle! The dead are willing to serve you!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [250,128,114],
+		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Paths of the Dead"]
 	},
 	{
@@ -477,6 +489,7 @@
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [152,0,241],
+		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Shelob's Lair"]
 	},
 	{
@@ -489,6 +502,7 @@
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [0,102,102],
+		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Avathar"]
 	},
 	{
@@ -501,6 +515,7 @@
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,255,0],
+		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Esgaroth"]
 	},
 	{
@@ -513,6 +528,7 @@
 		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,153,255],
+		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Dorwinion"]
 	},
 	{
@@ -525,6 +541,7 @@
 		"defeated": "We... defeated? No... we had so much work to do!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,204,204],
+		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Lossoth"]
 	},
 	{
@@ -537,6 +554,7 @@
 		"defeated": "We... defeated? No... we had so much work to do!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [151,125,0],
+		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Rhosgobel"]
 	},
 	{
@@ -549,6 +567,7 @@
 		"defeated": "So this is how it feels to die...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [0,0,255],
+		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Crissaegrim"]
 	},
 
@@ -562,6 +581,7 @@
 		"defeated": "Congratulations, conquerer. This tribe serves you now.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,128,0],
+		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Kingdom of Rhovanion"]
 	},
 	{
@@ -574,6 +594,7 @@
 		"defeated": "Congratulations, conquerer. This tribe serves you now.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [224,224,224],
+		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Ephel Brandir"]
 	},
 	

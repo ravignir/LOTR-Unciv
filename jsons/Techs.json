@@ -338,4 +338,276 @@
 			},
 			],
 			},
+					{
+		"columnNumber": 10,
+		"era": "Fourth Age",
+		"techCost": 4500, 
+		"buildingCost": 300,
+		"wonderCost": 750,
+		"techs": [						
+		{
+				"name": "Future Tech1",
+				"row": 1,
+				"prerequisites": ["Future Tech"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			{
+				"name": "Future Tech2",
+				"row": 2,
+				"prerequisites": ["Future Tech"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			{
+				"name": "Future Tech3",
+				"row": 3,
+				"prerequisites": ["Future Tech"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			{
+				"name": "Future Tech4",
+				"row": 4,
+				"prerequisites": ["Future Tech"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			{
+				"name": "Future Tech5",
+				"row": 5,
+				"prerequisites": ["Future Tech"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			{
+				"name": "Future Tech6",
+				"row": 6,
+				"prerequisites": ["Future Tech"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			{
+				"name": "Future Tech7",
+				"row": 7,
+				"prerequisites": ["Future Tech"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			{
+				"name": "Future Tech8",
+				"row": 8,
+				"prerequisites": ["Future Tech"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			{
+				"name": "Future Tech9",
+				"row": 9,
+				"prerequisites": ["Future Tech"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			{
+				"name": "Future Tech10",
+				"row": 10,
+				"prerequisites": ["Future Tech"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			
+			],
+			},
+					{
+		"columnNumber": 11,
+		"era": "Fourth Age",
+		"techCost": 4500, 
+		"buildingCost": 300,
+		"wonderCost": 750,
+		"techs": [						
+		{
+				"name": "Future Techh",
+				"row": 5,
+				"prerequisites": ["Future Tech10","Future Tech9","Future Tech8","Future Tech7","Future Tech6","Future Tech5","Future Tech4","Future Tech3","Future Tech2","Future Tech1"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			],
+			},
+								{
+		"columnNumber": 12,
+		"era": "Fourth Age",
+		"techCost": 4500, 
+		"buildingCost": 300,
+		"wonderCost": 750,
+		"techs": [						
+		{
+				"name": "Future Tech11",
+				"row": 1,
+				"prerequisites": ["Future Techh"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			{
+				"name": "Future Tech21",
+				"row": 2,
+				"prerequisites": ["Future Techh"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			{
+				"name": "Future Tech31",
+				"row": 3,
+				"prerequisites": ["Future Techh"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			{
+				"name": "Future Tech41",
+				"row": 4,
+				"prerequisites": ["Future Techh"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			{
+				"name": "Future Tech51",
+				"row": 5,
+				"prerequisites": ["Future Techh"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			{
+				"name": "Future Tech61",
+				"row": 6,
+				"prerequisites": ["Future Techh"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			{
+				"name": "Future Tech71",
+				"row": 7,
+				"prerequisites": ["Future Techh"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			{
+				"name": "Future Tech81",
+				"row": 8,
+				"prerequisites": ["Future Techh"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			{
+				"name": "Future Tech91",
+				"row": 9,
+				"prerequisites": ["Future Techh"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			{
+				"name": "Future Tech101",
+				"row": 10,
+				"prerequisites": ["Future Techh"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			
+			],
+			},
+								{
+		"columnNumber": 13,
+		"era": "Fourth Age",
+		"techCost": 4500, 
+		"buildingCost": 300,
+		"wonderCost": 750,
+		"techs": [						
+		{
+				"name": "Future Techhh",
+				"row": 5,
+				"prerequisites": ["Future Tech101","Future Tech91","Future Tech81","Future Tech71","Future Tech61","Future Tech51","Future Tech41","Future Tech31","Future Tech21","Future Tech11"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			],
+			},
+								{
+		"columnNumber": 14,
+		"era": "Fourth Age",
+		"techCost": 4500, 
+		"buildingCost": 300,
+		"wonderCost": 750,
+		"techs": [						
+		{
+				"name": "Future Tech111",
+				"row": 1,
+				"prerequisites": ["Future Techhh"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			{
+				"name": "Future Tech211",
+				"row": 2,
+				"prerequisites": ["Future Techhh"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			{
+				"name": "Future Tech311",
+				"row": 3,
+				"prerequisites": ["Future Techhh"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			{
+				"name": "Future Tech411",
+				"row": 4,
+				"prerequisites": ["Future Techhh"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			{
+				"name": "Future Tech511",
+				"row": 5,
+				"prerequisites": ["Future Techhh"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			{
+				"name": "Future Tech611",
+				"row": 6,
+				"prerequisites": ["Future Techhh"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			{
+				"name": "Future Tech711",
+				"row": 7,
+				"prerequisites": ["Future Techhh"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			{
+				"name": "Future Tech811",
+				"row": 8,
+				"prerequisites": ["Future Techhh"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			{
+				"name": "Future Tech911",
+				"row": 9,
+				"prerequisites": ["Future Techhh"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			{
+				"name": "Future Tech1011",
+				"row": 10,
+				"prerequisites": ["Future Techhh"],
+				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush"
+			},
+			
+			],
+			},
 ]

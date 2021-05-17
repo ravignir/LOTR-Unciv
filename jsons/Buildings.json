@@ -88,118 +88,141 @@
 	},
 				{
 		"name": "Dwarven Ring1",
+		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Consumes [2] [Iron]","Not displayed as an available construction without [Iron]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [2] [Iron]","Not displayed as an available construction without [Iron]","Not displayed as an available construction without [Palace]"]
 	},
 					{
 		"name": "Dwarven Ring3",
+		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Mithril]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Mithril]","Not displayed as an available construction without [Palace]"]
 	},
 					{
 		"name": "Dwarven Ring4",
+		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Consumes [2] [Copper]","Not displayed as an available construction without [Copper]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [2] [Copper]","Not displayed as an available construction without [Copper]","Not displayed as an available construction without [Palace]"]
 	},
 					{
 		"name": "Dwarven Ring5",
+		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Gold Ore]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Gold Ore]","Not displayed as an available construction without [Palace]"]
 	},
 						{
 		"name": "Dwarven Ring6",
+		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Gems]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Gems]","Not displayed as an available construction without [Palace]"]
 	},
 						{
 		"name": "Dwarven Ring7",
+		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Silver]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Silver]","Not displayed as an available construction without [Palace]"]
 	},
 						{
 		"name": "Dwarven Ring8",
+		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Salt]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Salt]","Not displayed as an available construction without [Palace]"]
 	},
 							{
 		"name": "Dwarven Ring9",
+		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Dyes]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Dyes]","Not displayed as an available construction without [Palace]"]
 	},
 							{
 		"name": "Dwarven Ring10",
+		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Cotton]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Cotton]","Not displayed as an available construction without [Palace]"]
 	},
 							{
 		"name": "Dwarven Ring11",
+		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Furs]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Furs]","Not displayed as an available construction without [Palace]"]
 	},
 							{
 		"name": "Dwarven Ring12",
+		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Incense]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Incense]","Not displayed as an available construction without [Palace]"]
 	},
 							{
 		"name": "Dwarven Ring13",
+		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Ivory]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Ivory]","Not displayed as an available construction without [Palace]"]
 	},
 							{
 		"name": "Dwarven Ring14",
+		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Silk]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Silk]","Not displayed as an available construction without [Palace]"]
 	},
 							{
 		"name": "Dwarven Ring15",
+		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Spices]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Spices]","Not displayed as an available construction without [Palace]"]
 	},
 							{
 		"name": "Dwarven Ring16",
+		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Marble]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Marble]","Not displayed as an available construction without [Palace]"]
 	},
 							{
 		"name": "Dwarven Ring17",
+		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Sugar]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Sugar]","Not displayed as an available construction without [Palace]"]
 	},
 							{
 		"name": "Dwarven Ring18",
+		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Wine]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Wine]","Not displayed as an available construction without [Palace]"]
 	},
 							{
 		"name": "Dwarven Ring19",
+		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Whales]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Whales]","Not displayed as an available construction without [Palace]"]
 	},
 							{
 		"name": "Dwarven Ring20",
+		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Pearls]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Pearls]","Not displayed as an available construction without [Palace]"]
 	},
 							{
 		"name": "Dwarven Ring21",
+		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Citrus]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Citrus]","Not displayed as an available construction without [Palace]"]
 	},
 							{
 		"name": "Dwarven Ring22",
+		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Cocoa]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Cocoa]","Not displayed as an available construction without [Palace]"]
 	},
 							{
 		"name": "Dwarven Ring23",
+		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Truffles]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Truffles]","Not displayed as an available construction without [Palace]"]
 	},
 							{
 		"name": "Dwarven Ring24",
+				"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Crab]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Crab]","Not displayed as an available construction without [Palace]"]
 	},
 								{
 		"name": "Train Fellbeast",
@@ -242,6 +265,12 @@
 		"hurryCostModifier": 40,
 		"uniques": ["Free [Watcher] appears","Will not be displayed in Civilopedia","Unbuildable"],
 	},
+			{
+		"name": "NoRingsForCS",
+		"cost": 20,
+		"hurryCostModifier": 40,
+		"uniques": ["Consumes [3] [Elven Rings]","Consumes [9] [Men Rings]","Consumes [7] [Dwarven Rings]","Free [Watcher] appears","Will not be displayed in Civilopedia","Unbuildable","Unsellable"],
+	},
 	
 	// Ancient Era
 	{
@@ -253,7 +282,7 @@
 		"culture": 1,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Indicates the capital city","Provides [1] [Special]","Provides [3] [Elven Rings]","Provides [9] [Men Rings]","Provides [7] [Dwarven Rings]"]
+		"uniques": ["Culture cost of adopting new Policies reduced by [33]%","+[50]% [Culture] [in all cities]","Indicates the capital city","Provides [1] [Special]","Provides [3] [Elven Rings]","Provides [9] [Men Rings]","Provides [7] [Dwarven Rings]"]
 	},
 	{
 		"name": "Monument",
@@ -782,7 +811,7 @@
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"culture": 2},
-		"uniques": ["+[25]% [Culture] [in all cities]"],
+		"uniques": ["+[50]% [Culture] [in all cities]"],
 		"requiredTech": "Acoustics",
 			},
 	{
