@@ -485,9 +485,9 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Imladris Gardens",
+		"name": "Menegroth",
 		"greatPersonPoints": {"culture": 1},
-		"food": 10,
+		"food": 8,
 		"culture": 1,
 		"isWonder": true,
 		"requiredTech": "Mathematics",
@@ -571,7 +571,7 @@
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"production": 1},
-		"uniques": ["Must be next to [Desert]", "[+1 Food, +1 Production] from [Desert] tiles in this city", "[-1 Food, -1 Production] from [Flood plains] tiles in this city", "[+6 Culture] once [Archaeology] is discovered"],
+		"uniques": ["Must be next to [Forest]", "[+1 Production, +1 Culture] from [Forest] tiles in this city"],
 		"requiredTech": "Currency",
 	},
 	{
@@ -637,7 +637,7 @@
 		"requiredTech": "Philosophy"
 	},
 	{
-		"name": "Cair Andros",
+		"name": "Golden Hall",
 		"culture": 1,
 		"happiness": 4,
 		"greatPersonPoints": {"production": 1},
@@ -742,7 +742,7 @@
 		"uniques": ["Free [Barricade Archer] appears"],
 	},
 	{
-		"name": "Barad Dur",
+		"name": "Dol Guldur",
 		"culture": 1,
 		"greatPersonPoints": {"production": 1},
 		"isWonder": true,
@@ -807,7 +807,7 @@
 		"requiredTech": "Acoustics"
 	},
 	{
-		"name": "Eregion",
+		"name": "Green Dragon Inn",
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"culture": 2},
@@ -824,7 +824,7 @@
 		"requiredTech": "Banking"
 	},
 	{
-		"name": "Fornost",
+		"name": "Houses of Healing",
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"culture": 1},
@@ -848,7 +848,7 @@
 		"requiredTech": "Printing Press",
 	},
 	{
-		"name": "Dol Guldur",
+		"name": "Amon Hen",
 		"culture": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"production": 2},
