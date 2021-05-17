@@ -401,6 +401,7 @@
 			{
 		"name": "Guardian",
 		"unitType": "Melee",
+		"replaces": "Swordsman",
 		"uniqueTo": "Dwarves",
 		"movement": 3,
 		"strength": 17,
@@ -415,6 +416,7 @@
 	{
 		"name": "Horseman",
 		"unitType": "Mounted",
+		"replaces": "Swordsman",
 		"movement": 4,
 		"strength": 12,
 		"cost": 75,

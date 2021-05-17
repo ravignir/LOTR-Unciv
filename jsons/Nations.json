@@ -130,8 +130,8 @@
 		
 		"tradeRequest": "Want to trade?",
 				
-		"outerColor": [73, 75, 110],
-		"innerColor": [170, 171, 181],
+		"outerColor": [19, 38, 64],
+		"innerColor": [87, 123, 173],
 		"uniqueName": "Terror of the North",
 		"uniques": ["[Melee] units gain the [Siege I] promotion","+1 Movement for all units during Golden Age", "+10% Strength for all units during Golden Age"],
 		"cities": ["Carn Dum","Witch-King Sanctuary","Ice Town"]
@@ -156,8 +156,8 @@
 		
 		"tradeRequest": "Want to trade?",
 				
-		"outerColor": [79, 82, 5],
-		"innerColor": [54, 31, 33],
+		"outerColor": [54, 31, 33],
+		"innerColor": [79, 82, 5],
 		"uniqueName": "Horror of the Deeps",
 		"uniques": ["+[20]% combat bonus for units fighting in [Friendly Land]","[Melee] units gain [50]% more Experience from combat","Receive free [Balrog] when you discover [Bronze Working]"],
 		"cities": ["Moria","Goblin town","Warg Lair"]
@@ -183,7 +183,7 @@
 		"tradeRequest": "Want to trade?",
 				
 		"outerColor": [199, 176, 62],
-		"innerColor": [209, 209, 209],
+		"innerColor": [133, 130, 101],
 		"uniqueName": "Dwarven Riches",
 		"uniques": ["[+1 Production] from every [Strategic resource]","[+1 Gold] from every [Strategic resource]","Double quantity of [Salt] produced","Double quantity of [Silver] produced","Double quantity of [Gems] produced","Double quantity of [Gold Ore] produced","Double quantity of [Copper] produced","Double quantity of [Mithril] produced","Double quantity of [Iron] produced"],
 		"cities": ["Erebor","Esgaroth","Ered Luin"]
@@ -260,7 +260,7 @@
 		"tradeRequest": "Want to trade?",
 				
 		"outerColor": [163, 103, 0],
-		"innerColor": [181, 0, 0],
+		"innerColor": [107, 11, 19],
 		"uniqueName": "Desert Tribes",
 		"uniques": ["Gain a free [Harad Training Grounds] [in all cities]","Receive triple Gold from Barbarian encampments and pillaging Cities","[+1 Production, +1 Food] from every [Ivory]","[+2 Culture] from every [Oasis]"],
 		"cities": ["Harad Capital","Umbar"]
@@ -310,7 +310,7 @@
 		
 		"tradeRequest": "Want to trade?",
 				
-		"outerColor": [77, 89, 85],
+		"outerColor": [8, 46, 8],
 		"innerColor": [59, 138, 75],
 		"uniqueName": "Elven Grace",
 		"uniques": ["All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel."],
