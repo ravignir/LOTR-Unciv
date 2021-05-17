@@ -1,0 +1,871 @@
+[	
+
+	// Victory Specific
+		{
+		"name": "Elven Ring1",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Requires [Tradition Complete]","Provides [1] [Ring]","Consumes [1] [Elven Rings]","Not displayed as an available construction without [Elven Rings]","Not displayed as an available construction without [Palace]"]
+	},
+			{
+		"name": "Elven Ring2",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Requires [Liberty Complete]","Provides [1] [Ring]","Consumes [1] [Elven Rings]","Not displayed as an available construction without [Elven Rings]","Not displayed as an available construction without [Palace]"]
+	},
+			{
+		"name": "Elven Ring3",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Requires [Honor Complete]","Provides [1] [Ring]","Consumes [1] [Elven Rings]","Not displayed as an available construction without [Elven Rings]","Not displayed as an available construction without [Palace]"]
+	},
+			{
+		"name": "Elven Ring4",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Requires [Piety Complete]","Provides [1] [Ring]","Consumes [1] [Elven Rings]","Not displayed as an available construction without [Elven Rings]","Not displayed as an available construction without [Palace]"]
+	},
+			{
+		"name": "Elven Ring5",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Requires [Rationalism Complete]","Provides [1] [Ring]","Consumes [1] [Elven Rings]","Not displayed as an available construction without [Elven Rings]","Not displayed as an available construction without [Palace]"]
+	},
+			{
+		"name": "Elven Ring6",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Requires [Commerce Complete]","Provides [1] [Ring]","Consumes [1] [Elven Rings]","Not displayed as an available construction without [Elven Rings]","Not displayed as an available construction without [Palace]"]
+	},
+			{
+		"name": "Elven Ring7",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Requires [Freedom Complete]","Provides [1] [Ring]","Consumes [1] [Elven Rings]","Not displayed as an available construction without [Elven Rings]","Not displayed as an available construction without [Palace]"]
+	},
+			{
+		"name": "Elven Ring8",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Requires [Autocracy Complete]","Provides [1] [Ring]","Consumes [1] [Elven Rings]","Not displayed as an available construction without [Elven Rings]","Not displayed as an available construction without [Palace]"]
+	},
+			{
+		"name": "Men Ring1",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Men Rings]","Consumes [2] [Supply]","Not displayed as an available construction without [Men Rings]","Not displayed as an available construction without [Palace]"]
+	},
+				{
+		"name": "Men Ring2",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Men Rings]","Consumes [2] [Supply]","Not displayed as an available construction without [Men Rings]","Not displayed as an available construction without [Palace]"]
+	},
+				{
+		"name": "Men Ring3",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Men Rings]","Consumes [2] [Supply]","Not displayed as an available construction without [Men Rings]","Not displayed as an available construction without [Palace]"]
+	},
+				{
+		"name": "Men Ring4",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Men Rings]","Consumes [2] [Supply]","Not displayed as an available construction without [Men Rings]","Not displayed as an available construction without [Palace]"]
+	},
+				{
+		"name": "Men Ring5",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Men Rings]","Consumes [2] [Supply]","Not displayed as an available construction without [Men Rings]","Not displayed as an available construction without [Palace]"]
+	},
+				{
+		"name": "Men Ring6",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Men Rings]","Consumes [2] [Supply]","Not displayed as an available construction without [Men Rings]","Not displayed as an available construction without [Palace]"]
+	},
+				{
+		"name": "Men Ring7",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Men Rings]","Consumes [2] [Supply]","Not displayed as an available construction without [Men Rings]","Not displayed as an available construction without [Palace]"]
+	},
+				{
+		"name": "Men Ring8",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Men Rings]","Consumes [2] [Supply]","Not displayed as an available construction without [Men Rings]","Not displayed as an available construction without [Palace]"]
+	},
+				{
+		"name": "Men Ring9",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Men Rings]","Consumes [2] [Supply]","Not displayed as an available construction without [Men Rings]","Not displayed as an available construction without [Palace]"]
+	},
+				{
+		"name": "Dwarven Ring1",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Consumes [2] [Iron]","Not displayed as an available construction without [Iron]","Not displayed as an available construction without [Palace]"]
+	},
+					{
+		"name": "Dwarven Ring3",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Mithril]","Not displayed as an available construction without [Palace]"]
+	},
+					{
+		"name": "Dwarven Ring4",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Consumes [2] [Copper]","Not displayed as an available construction without [Copper]","Not displayed as an available construction without [Palace]"]
+	},
+					{
+		"name": "Dwarven Ring5",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Gold Ore]","Not displayed as an available construction without [Palace]"]
+	},
+						{
+		"name": "Dwarven Ring6",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Gems]","Not displayed as an available construction without [Palace]"]
+	},
+						{
+		"name": "Dwarven Ring7",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Silver]","Not displayed as an available construction without [Palace]"]
+	},
+						{
+		"name": "Dwarven Ring8",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Salt]","Not displayed as an available construction without [Palace]"]
+	},
+							{
+		"name": "Dwarven Ring9",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Dyes]","Not displayed as an available construction without [Palace]"]
+	},
+							{
+		"name": "Dwarven Ring10",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Cotton]","Not displayed as an available construction without [Palace]"]
+	},
+							{
+		"name": "Dwarven Ring11",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Furs]","Not displayed as an available construction without [Palace]"]
+	},
+							{
+		"name": "Dwarven Ring12",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Incense]","Not displayed as an available construction without [Palace]"]
+	},
+							{
+		"name": "Dwarven Ring13",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Ivory]","Not displayed as an available construction without [Palace]"]
+	},
+							{
+		"name": "Dwarven Ring14",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Silk]","Not displayed as an available construction without [Palace]"]
+	},
+							{
+		"name": "Dwarven Ring15",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Spices]","Not displayed as an available construction without [Palace]"]
+	},
+							{
+		"name": "Dwarven Ring16",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Marble]","Not displayed as an available construction without [Palace]"]
+	},
+							{
+		"name": "Dwarven Ring17",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Sugar]","Not displayed as an available construction without [Palace]"]
+	},
+							{
+		"name": "Dwarven Ring18",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Wine]","Not displayed as an available construction without [Palace]"]
+	},
+							{
+		"name": "Dwarven Ring19",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Whales]","Not displayed as an available construction without [Palace]"]
+	},
+							{
+		"name": "Dwarven Ring20",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Pearls]","Not displayed as an available construction without [Palace]"]
+	},
+							{
+		"name": "Dwarven Ring21",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Citrus]","Not displayed as an available construction without [Palace]"]
+	},
+							{
+		"name": "Dwarven Ring22",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Cocoa]","Not displayed as an available construction without [Palace]"]
+	},
+							{
+		"name": "Dwarven Ring23",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Truffles]","Not displayed as an available construction without [Palace]"]
+	},
+							{
+		"name": "Dwarven Ring24",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Dwarven Rings]","Not displayed as an available construction without [Crab]","Not displayed as an available construction without [Palace]"]
+	},
+								{
+		"name": "Train Fellbeast",
+		"uniqueTo": "Mordor",
+		"cost": 120,
+		"requiredTech": "Mathematics",
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Fellbeast]"]
+		},
+										{
+		"name": "Nazgul Supply",
+		"uniqueTo": "Mordor",
+		"cost": -1,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [9] [Nazgul]","Unbuildable"]
+		},
+			{
+		"name": "Watchtower",
+		"replaces": "none",
+		"uniqueTo": "Arnor",
+		"cost": 20,
+		"hurryCostModifier": 40,
+		"uniques": ["Free [Watcher] appears","6 tiles in every direction always visible"],
+	},
+				{
+		"name": "Ent Supply",
+		"uniqueTo": "Sindar Elves",
+		"cost": -1,
+		"hurryCostModifier": 40,
+		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [SpecialEnt]","Must be next to [Forest]"],
+	},
+	{
+		"name": "Harad Training Grounds",
+		"uniqueTo": "Harad",
+		"cost": -1,
+		"hurryCostModifier": 40,
+		"uniques": ["Will not be displayed in Civilopedia","New [Haradrim Lancer] units start with [30] Experience in this city","Unbuildable"],
+	},
+		{
+		"name": "none",
+		"cost": 20,
+		"hurryCostModifier": 40,
+		"uniques": ["Free [Watcher] appears","Will not be displayed in Civilopedia","Unbuildable"],
+	},
+	
+	// Ancient Era
+	{
+		"name": "Palace",
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 1,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Indicates the capital city","Provides [1] [Special]","Provides [3] [Elven Rings]","Provides [9] [Men Rings]","Provides [7] [Dwarven Rings]"]
+	},
+	{
+		"name": "Monument",
+		"culture": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1
+	},
+		{
+		"name": "Barrow",
+		"replaces": "Monument",
+		"uniqueTo": "Arnor",
+		"culture": 3,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 0
+	},
+	{
+		"name": "Granary", 
+		"food": 2,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles in this city",
+			"[+1 Food] from [Bananas] tiles in this city",
+			"[+1 Food] from [Wheat] tiles in this city"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Stone Works", 
+		"happiness": 1,
+		"production": 1,
+		"requiredNearbyImprovedResources": ["Marble", "Stone"],
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"uniques": ["Must not be on [Plains]",
+			"[+1 Production] from [Stone] tiles in this city",
+			"[+1 Production] from [Marble] tiles in this city"],
+		"requiredTech": "Calendar"
+	},
+	{
+		"name": "Argonath",
+		"culture": 6,
+		"isWonder": true,
+		"greatPersonPoints": {"production": 1},
+		"requiredTech": "Calendar",
+	},
+	{
+		"name": "Library",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"specialistSlots": {"Scientist": 1},
+		"uniques": ["[+1 Science] Per [2] Population in this city"],
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "The Great Archive",
+		"science": 3,
+		"culture": 1,
+		"greatPersonPoints": {"science": 1},
+		"isWonder": true,
+		"providesFreeBuilding":  "Library",
+		"requiredTech": "Writing",
+		"uniques": ["Free Technology"],
+	},
+	{
+		"name": "Circus", 
+		"requiredNearbyImprovedResources": ["Ivory","Horses"],
+		"happiness": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Trapping"
+	},
+	{
+		"name": "Water Mill",
+		"maintenance": 2,
+		"food": 2,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"specialistSlots": {"Engineer": 1},
+		"uniques": ["Must be on [River]"],
+		"requiredTech": "The Wheel"
+	},
+	{
+		"name": "Temple of Melian",
+		"culture": 1,
+		"isWonder": true,
+		"cost": 185,
+		"greatPersonPoints": {"production": 1},
+		"uniques": ["+[10]% growth in all cities", "+[15]% Production when constructing [Ranged] units [in all cities]"],
+		"requiredTech": "Archery",
+		},
+	{
+		"name": "Walls",
+		"cityStrength": 5,
+		"cityHealth": 50,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry"
+	},
+		{
+		"name": "Black Ice Walls",
+		"replaces": "Walls",
+		"uniqueTo": "Angmar",
+		"Science": 2,
+		"cityStrength": 6,
+		"cityHealth": 100,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry"
+	},
+	{
+		"name": "Formenos",
+		"culture": 1,
+		"greatPersonPoints": {"production": 1},
+		"isWonder": true,
+		"uniques": ["Worker construction increased 25%","[2] free [Worker] units appear"],
+		"requiredTech": "Masonry",
+		},
+	{
+		"name": "Barracks",
+		"xpForNewUnits": 15,
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredTech": "Bronze Working"
+	},
+	{
+		"name": "Alqualonde",
+		"culture": 1,
+		"gold": 5,
+		"greatPersonPoints": {"gold": 1},
+		"isWonder": true,
+		"uniques": ["Must be next to [Coast]", "[+1 Gold] from [Water] tiles in this city"],
+		"requiredTech": "Iron Working",
+},
+	{
+		"name": "Angband",
+		"culture": 1,
+		"isWonder": true,
+		"uniques": ["+15% Combat Strength for all units when attacking Cities"],
+		"requiredTech": "Bronze Working",
+		},
+	{
+		"name": "Gondolin",
+		"culture": 1,
+		"greatPersonPoints": {"gold": 1},
+		"isWonder": true,
+		"uniques": ["Provides a sum of gold each time you spend a Great Person",
+			"[+2 Gold] from [Marble] tiles in this city", "[+2 Gold] from [Stone] tiles in this city"],
+		"requiredTech": "Masonry",
+		},
+	
+	// Classical Era
+	
+	{
+		"name": "Lighthouse",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Must be next to [Coast]", "[+1 Food] from [Ocean] tiles in this city",
+			"[+1 Food] from [Coast] tiles in this city", "[+1 Food] from [Fish] tiles in this city" ],
+		"requiredTech": "Optics"
+	},
+	{
+		"name": "Grey Havens",
+		"culture": 1,
+		"greatPersonPoints": {"gold": 1},
+		"isWonder": true,
+		"providesFreeBuilding":  "Lighthouse",
+		"uniques": ["Must be next to [Coast]", "All military naval units receive +1 movement and +1 sight"],
+		"requiredTech": "Optics",
+		},
+	{
+		"name": "Stable", 
+		"maintenance": 1,
+		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
+		"hurryCostModifier": 25,
+		"uniques": ["+[15]% Production when constructing [Mounted] units [in this city]", 
+			"[+1 Production] from [Cattle] tiles in this city",
+			"[+1 Production] from [Horses] tiles in this city",
+			"[+1 Production] from [Sheep] tiles in this city"],
+		"requiredTech": "Horseback Riding"
+	},
+		{
+		"name": "Mearas Stable", 
+		"replaces": "Stable",
+		"uniqueTo": "Rohan",
+		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
+		"hurryCostModifier": 25,
+		"production": 1,
+		"gold": 2,
+		"uniques": ["+[15]% Production when constructing [Mounted] units [in this city]", 
+			"[+1 Production] from [Cattle] tiles in this city",
+			"[+1 Production] from [Horses] tiles in this city",
+			"[+1 Production] from [Sheep] tiles in this city"],
+		"requiredTech": "Horseback Riding"
+	},
+	{
+		"name": "Giant Circus",
+		"cost": 125,
+		"happiness": 5,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["Requires a [Colosseum] in all cities", "Cost increases by [30] per owned city"],
+		"requiredTech": "Horseback Riding"
+	},
+	{
+		"name": "Imladris Gardens",
+		"greatPersonPoints": {"culture": 1},
+		"food": 10,
+		"culture": 1,
+		"isWonder": true,
+		"requiredTech": "Mathematics",
+		},
+	{
+		"name": "Courthouse",
+		"maintenance": 4,
+		"hurryCostModifier": 50,
+		"uniques": ["Remove extra unhappiness from annexed cities",
+			"Can only be built in annexed cities"],
+		"requiredTech": "Mathematics"
+	},
+	{
+		"name": "Colosseum", 
+		"maintenance": 1,
+		"happiness": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Construction"
+	},
+	{
+		"name": "Caras Galadhon",
+		"culture": 6,
+		"isWonder": true,
+		"greatPersonPoints": {"culture": 1},
+		"requiredTech": "Construction",
+	},
+	{
+		"name": "Temple",
+		"culture": 3,
+		"specialistSlots": {"Artist": 1},
+		"requiredBuilding": "Monument",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy"
+	},
+
+	{
+		"name": "The Mirror of Galadriel",
+		"culture": 3,
+		"greatPersonPoints": {"science": 1},
+		"isWonder": true,
+		"uniques": ["Free Social Policy"],
+		"requiredTech": "Philosophy",
+	},
+	{
+		"name": "National Epic",
+		"cost": 125,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["Requires a [Monument] in all cities", "+[25]% great person generation in this city", "Cost increases by [30] per owned city"],
+		"requiredTech": "Philosophy"
+	},
+	{
+		"name": "Market",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "National Treasury",
+		"cost": 125,
+		"gold": 8,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["Requires a [Market] in all cities", "Cost increases by [30] per owned city"],
+		"requiredTech": "Currency"
+	},
+
+	{
+		"name": "Mint",
+		"maintenance": 0,
+		"requiredNearbyImprovedResources": ["Gold Ore", "Silver"],
+		"hurryCostModifier": 25,
+		"uniques": ["[+2 Gold] from [Gold Ore] tiles in this city", "[+2 Gold] from [Silver] tiles in this city"],
+		"requiredTech": "Currency"
+	},
+	{ 
+		"name": "Ent Moot",
+		"culture": 1,
+		"isWonder": true,
+		"greatPersonPoints": {"production": 1},
+		"uniques": ["Must be next to [Desert]", "[+1 Food, +1 Production] from [Desert] tiles in this city", "[-1 Food, -1 Production] from [Flood plains] tiles in this city", "[+6 Culture] once [Archaeology] is discovered"],
+		"requiredTech": "Currency",
+	},
+	{
+		"name": "Aqueduct",
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"uniques": ["[40]% of food is carried over after population increases"],
+		"requiredTech": "Engineering"
+	},
+	{
+		"name": "The Great Wall",
+		"culture": 3,
+		"greatPersonPoints": {"production": 1},
+		"isWonder": true,
+		"providesFreeBuilding":  "Walls",
+		"uniques": ["Enemy land units must spend 1 extra movement point when inside your territory (obsolete upon Dynamite)"],
+		"requiredTech": "Engineering",
+	},
+	{
+		"name": "Heroic Epic",
+		"cost": 125,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["Requires a [Barracks] in all cities", "All newly-trained [non-air] units in this city receive the [Morale] promotion",
+			"Cost increases by [30] per owned city"],
+		"requiredTech": "Iron Working"
+	},
+	
+	// Medieval Era
+	
+	{
+		"name": "Garden",
+		"cost": 120,
+		"uniques": ["+[25]% great person generation in this city", "Must be next to [Fresh water]"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredTech": "Theology"
+	},
+	{
+		"name": "Monastery",
+		"maintenance": 0,
+		"requiredNearbyImprovedResources": ["Wine","Incense"],
+		"uniques": ["[+2 Culture] from [Wine] tiles in this city", "[+2 Culture] from [Incense] tiles in this city"],
+		"hurryCostModifier": 25,
+		"requiredTech": "Theology"
+	},
+	{
+		"name": "The White Tree",
+		"culture": 1,
+		"greatPersonPoints": {"culture": 1},
+		"isWonder": true,
+		"uniques": ["+[25]% great person generation in all cities"],
+		"requiredTech": "Theology",
+		},
+	{
+		"name": "National College",
+		"cost": 125,
+		"science": 3,
+		"culture": 1,
+		"isNationalWonder": true,
+		"percentStatBonus": {"science": 50},
+		"uniques": ["Requires a [Library] in all cities", "Cost increases by [30] per owned city"],
+		"requiredTech": "Philosophy"
+	},
+	{
+		"name": "Cair Andros",
+		"culture": 1,
+		"happiness": 4,
+		"greatPersonPoints": {"production": 1},
+		"isWonder": true,
+		"uniques": ["Golden Age length increased by [50]%"],
+		"requiredTech": "Civil Service",
+	},
+	{
+		"name": "Erebor",
+		"gold": 5,
+		"greatPersonPoints": {"gold": 1},
+		"culture": 1,
+		"isWonder": true,
+		"uniques": ["Gold from all trade routes +25%","Must have an owned [Mountain] within [2] tiles"],
+		"requiredTech": "Guilds",
+		},
+	{
+		"name": "Workshop", 
+		"maintenance": 2,
+		"production": 2,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"production": 10},
+		"requiredTech": "Metal Casting"
+	},
+	{
+		"name": "Forge",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredNearbyImprovedResources": ["Iron"],
+		"requiredTech": "Metal Casting",
+		"uniques": ["+[15]% Production when constructing [Land] units [in this city]",
+			"[+1 Production] from [Iron] tiles in this city"]
+	},
+		{
+		"name": "Furnace",
+		"uniqueTo": "Isengard",
+		"replaces": "Forge",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Metal Casting",
+		"uniques": ["+[15]% Production when constructing [Land] units [in this city]",
+			"[+1 Production] from [Lumber mill] tiles in this city","[+1 Production] from [Iron] tiles in this city"]
+	},
+		{
+		"name": "Eregion Forge",
+		"replaces": "Forge",
+		"uniqueTo": "Noldor Elves",
+		"gold": 2,
+		"science": 1,
+		"percentStatBonus": {"gold": 15},
+		"hurryCostModifier": 25,
+		"requiredNearbyImprovedResources": ["Iron"],
+		"requiredTech": "Metal Casting",
+		"uniques": ["+[15]% Production when constructing [Land] units [in this city]",
+			"[+1 Production] from [Iron] tiles in this city"]
+	},
+	{
+		"name": "Harbor",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Production] from [Water resource] tiles in this city",
+			"Connects trade routes over water","Must be next to [Coast]"],
+		"requiredTech": "Compass"
+	},
+	{
+		"name": "University",
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "Library",
+		"uniques": ["[+2 Science] from [Jungle] tiles in this city"],
+		"requiredTech": "Education"
+	},
+	{
+		"name": "Oxford University",
+		"cost": 125,
+		"science": 3,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["Requires a [University] in all cities", "Free Technology", "Cost increases by [30] per owned city"],
+		"requiredTech": "Education"
+	},
+	{
+		"name": "Castle",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry"
+	},
+		{
+		"name": "Barricade",
+		"replaces": "Castle",
+		"uniqueTo": "Mordor",
+		"cityStrength": 3,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry"
+		"uniques": ["Free [Barricade Archer] appears"],
+	},
+	{
+		"name": "Barad Dur",
+		"culture": 1,
+		"greatPersonPoints": {"production": 1},
+		"isWonder": true,
+		"uniques": ["-[25]% Culture cost of acquiring tiles [in all cities]","-[25]% Gold cost of acquiring tiles [in all cities]"],
+		"requiredTech": "Chivalry",
+			},
+	{
+		"name": "Minas Morgul",
+		"culture": 1,
+		"greatPersonPoints": {"culture": 1},
+		"isWonder": true,
+		"providesFreeBuilding": "Castle",
+		"percentStatBonus": {"culture": 20},
+		"uniques": ["All newly-trained [relevant] units in this city receive the [Drill I] promotion"],
+		"requiredTech": "Chivalry",
+	
+	},
+	{
+		"name": "Ironworks",
+		"cost": 125,
+		"production": 8,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["Requires a [Workshop] in all cities", "Cost increases by [30] per owned city"],
+		"requiredTech": "Machinery"
+	},
+	{
+		"name": "Bag End",
+		"culture": 3,
+		"happiness": 10,
+		"greatPersonPoints": {"gold": 1},
+		"isWonder": true,
+		"requiredTech": "Physics",
+		},
+	{
+		"name": "Armory",
+		"xpForNewUnits": 15,
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredBuilding": "Barracks",
+		"requiredTech": "Steel"
+	},
+	
+	// Renaissance Era
+	
+	{
+		"name": "Observatory",
+		"maintenance": 0,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 50},
+		"requiredBuilding": "Library",
+		"uniques": ["Must be next to [Mountain]"],
+		"requiredTech": "Astronomy"
+	},
+	{
+		"name": "Opera House",
+		"culture": 4,
+		"specialistSlots": {"Artist": 1},
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Temple",
+		"maintenance": 2,
+		"requiredTech": "Acoustics"
+	},
+	{
+		"name": "Eregion",
+		"culture": 1,
+		"isWonder": true,
+		"greatPersonPoints": {"culture": 2},
+		"uniques": ["+[25]% [Culture] [in all cities]"],
+		"requiredTech": "Acoustics",
+			},
+	{
+		"name": "Bank",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
+	},
+	{
+		"name": "Fornost",
+		"culture": 1,
+		"isWonder": true,
+		"greatPersonPoints": {"culture": 1},
+		"uniques": ["Unhappiness from population decreased by [10]%"],
+		"requiredTech": "Banking",
+	},
+	{
+		"name": "Theatre",
+		"happiness": 3,
+		"hurryCostModifier": 10,
+		"maintenance": 2,
+		"requiredBuilding": "Colosseum",
+		"requiredTech": "Printing Press"
+	},
+	{
+		"name": "The Tower Hills",
+		"culture": 1,
+		"isWonder": true,
+		"greatPersonPoints": {"culture": 1},		
+		"uniques": ["Free Great Person"],
+		"requiredTech": "Printing Press",
+	},
+	{
+		"name": "Dol Guldur",
+		"culture": 3,
+		"isWonder": true,
+		"greatPersonPoints": {"production": 2},
+		"providesFreeBuilding": "Castle",
+		"uniques": ["+[15]% combat bonus for units fighting in [Friendly Land]"],
+		"requiredTech": "Chemistry",
+		},
+	{
+		"name": "Seaport",
+		"hurryCostModifier": 25,
+		"maintenance": 3,
+		"requiredBuilding": "Harbor",
+		"uniques": ["[+1 Production, +1 Gold] from [Water resource] tiles in this city",
+			"Must be next to [Coast]", "+[15]% Production when constructing [Water] units [in this city]"],
+		"requiredTech": "Navigation"
+	},
+	{
+		"name": "Amon Sul",
+		"culture": 1,
+		"happiness": 4,
+		"greatPersonPoints": {"culture": 2},
+		"isWonder": true,
+		"uniques": ["Empire enters golden age"],
+		"requiredTech": "Architecture",
+		},
+	{
+		"name": "Orthanc",
+		"culture": 1,
+		"greatPersonPoints": {"science": 2},
+		"isWonder": true,
+		"uniques": ["Free [Great Scientist] appears","Science gained from research agreements +50%"],
+		"requiredTech": "Architecture",
+		}, 
+	{
+		"name": "Windmill",
+		"production": 2,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"uniques": ["Must not be on [Hill]", "+[10]% Production when constructing [Buildings] [in this city]"],
+		"requiredTech": "Economics"
+	},
+	{
+		"name": "The One Ring to rule them all",
+		"cost": 15,
+		"isWonder": true,
+		"uniques": ["Triggers victory","Consumes [19] [Ring]"]
+	},
+]
