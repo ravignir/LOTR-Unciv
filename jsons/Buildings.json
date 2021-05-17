@@ -266,10 +266,10 @@
 		"uniques": ["Free [Watcher] appears","Will not be displayed in Civilopedia","Unbuildable"],
 	},
 			{
-		"name": "NoRingsForCS",
+		"name": "Rings",
 		"cost": 20,
 		"hurryCostModifier": 40,
-		"uniques": ["Consumes [3] [Elven Rings]","Consumes [9] [Men Rings]","Consumes [7] [Dwarven Rings]","Free [Watcher] appears","Will not be displayed in Civilopedia","Unbuildable","Unsellable"],
+		"uniques": ["Provides [3] [Elven Rings]","Provides [9] [Men Rings]","Provides [7] [Dwarven Rings]","Will not be displayed in Civilopedia","Unbuildable","Unsellable"],
 	},
 	
 	// Ancient Era
@@ -282,7 +282,7 @@
 		"culture": 1,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Culture cost of adopting new Policies reduced by [33]%","+[50]% [Culture] [in all cities]","Indicates the capital city","Provides [1] [Special]","Provides [3] [Elven Rings]","Provides [9] [Men Rings]","Provides [7] [Dwarven Rings]"]
+		"uniques": ["Culture cost of adopting new Policies reduced by [33]%","+[50]% [Culture] [in all cities]","Indicates the capital city","Provides [1] [Special]"]
 	},
 	{
 		"name": "Monument",

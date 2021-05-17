@@ -29,7 +29,7 @@
 		"outerColor": [2, 112, 11],
 		"innerColor": [224, 218, 157],
 		"uniqueName": "Muster the Rohirrim",
-		"uniques": ["Starts with [Animal Husbandry]","+[1] Movement for all [Mounted] units","Double quantity of [Horses] produced","[+1 Food] from every [Horses]"],
+		"uniques": ["Gain a free [NoRingsForCS] [in capital]","Starts with [Animal Husbandry]","+[1] Movement for all [Mounted] units","Double quantity of [Horses] produced","[+1 Food] from every [Horses]"],
 		"cities": ["Edoras","Helm's Deep","Snowbourn","Aldburg","Dunharrow","Grimslade","Fords of Isen","Gap of Rohan","Eastemnet","Eastfold","Westemnet","Folde","Westfold","The Wold","West-March","Minhiriath","Meduseld","Framsburg"]
 	},
 		{
@@ -55,7 +55,7 @@
 		"outerColor": [1, 0, 84],
 		"innerColor": [255,255,255],
 		"uniqueName": "For the White City",
-		"uniques": ["Tile improvement speed +25%","Receive free [Worker] when you discover [Pottery]"],
+		"uniques": ["Gain a free [NoRingsForCS] [in capital]","Tile improvement speed +25%","Receive free [Worker] when you discover [Pottery]"],
 		"cities": ["Minas Tirith","Osgiliath","Ithilien","Cair Andros","Dol Amroth","Lamedon","Henneth Annun","Lossarnach","Lebennin","Anfalas","Belfalas","Morthond","Ringlo Vale","Andrast","Pelargir","Linhir","Tarnost","Ethring"]
 	},
 			{
@@ -81,7 +81,7 @@
 		"outerColor": [64, 64, 64],
 		"innerColor": [255,255,255],
 		"uniqueName": "The Voice of Saruman",
-		"uniques": ["67% chance to earn 25 Gold and recruit a Barbarian unit from a conquered encampment","+[25]% Production when constructing [Land] units [in capital]","May cast a lightning bolt"],
+		"uniques": ["Gain a free [NoRingsForCS] [in capital]","67% chance to earn 25 Gold and recruit a Barbarian unit from a conquered encampment","+[25]% Production when constructing [Land] units [in capital]","May cast a lightning bolt"],
 		"cities": ["Isengard","Angrenost","Fords of Isen","Nan Curunir","Dol Baran","Angren River","Gwathlo","Methedras","Adorn","Wellinghall","Dunbog","Starkmoor","Pren Gwydh","Bonevales","Ral Methedras","Derndingle"]
 	},
 				{
@@ -107,7 +107,7 @@
 		"outerColor": [107, 0, 0],
 		"innerColor": [207, 120, 0],
 		"uniqueName": "Gather them all!",
-		"uniques": ["[Great General] is earned [50]% faster","Receive free [Nazgul] when you discover [Trapping]","Gain a free [Nazgul Supply] [in capital]"],
+		"uniques": ["Gain a free [NoRingsForCS] [in capital]","[Great General] is earned [50]% faster","Receive free [Nazgul] when you discover [Trapping]","Gain a free [Nazgul Supply] [in capital]"],
 		"cities": ["Barad Dur","Orodruin","Gorgoroth","Udun","Nurn","Dagorlad","Durthang","Cirith Gorgor","Ered Lithui","Ered Duath","Cirith Ungol","Morgul Pass","Black Gate","Nargroth","Morgai","Morannon","Seregost","Lithlad","Carach Angren"]
 	},
 					{
@@ -133,7 +133,7 @@
 		"outerColor": [19, 38, 64],
 		"innerColor": [87, 123, 173],
 		"uniqueName": "Terror of the North",
-		"uniques": ["[Melee] units gain the [Siege I] promotion","+1 Movement for all units during Golden Age", "+10% Strength for all units during Golden Age"],
+		"uniques": ["Gain a free [NoRingsForCS] [in capital]","[Melee] units gain the [Siege I] promotion","+1 Movement for all units during Golden Age", "+10% Strength for all units during Golden Age"],
 		"cities": ["Carn Dum","Angmar","Forodwaith","East Angmar","Northern Hills","Dor Daedeloth","Forochel","Malenhad","Nan Gurth","Gorothlad","Gundabad","Himbar","Urugarth","Aughaire"]
 	},
 						{
@@ -159,7 +159,7 @@
 		"outerColor": [54, 31, 33],
 		"innerColor": [79, 82, 5],
 		"uniqueName": "Horror of the Deeps",
-		"uniques": ["+[20]% combat bonus for units fighting in [Friendly Land]","[Melee] units gain [50]% more Experience from combat","Receive free [Balrog] when you discover [Bronze Working]"],
+		"uniques": ["Gain a free [NoRingsForCS] [in capital]","+[20]% combat bonus for units fighting in [Friendly Land]","[Melee] units gain [50]% more Experience from combat","Receive free [Balrog] when you discover [Bronze Working]"],
 		"cities": ["Moria","Goblin town","Withered Heath","Ettenmoors","High Pass","Misty Mountains","Grey Mountains","Dwarrodelf","Glaurung","Ancalagon","Scatha","Gram Mountain","Rhimdath","Cold Fields","Hoardale"]
 	},
 							{
@@ -185,7 +185,7 @@
 		"outerColor": [199, 176, 62],
 		"innerColor": [133, 130, 101],
 		"uniqueName": "Dwarven Riches",
-		"uniques": ["[+1 Production] from every [Strategic resource]","[+1 Gold] from every [Strategic resource]","Double quantity of [Salt] produced","Double quantity of [Silver] produced","Double quantity of [Gems] produced","Double quantity of [Gold Ore] produced","Double quantity of [Copper] produced","Double quantity of [Mithril] produced","Double quantity of [Iron] produced"],
+		"uniques": ["Gain a free [NoRingsForCS] [in capital]","[+1 Production] from every [Strategic resource]","[+1 Gold] from every [Strategic resource]","Double quantity of [Salt] produced","Double quantity of [Silver] produced","Double quantity of [Gems] produced","Double quantity of [Gold Ore] produced","Double quantity of [Copper] produced","Double quantity of [Mithril] produced","Double quantity of [Iron] produced"],
 		"cities": ["Erebor","Esgaroth","Ered Luin","Iron Hills","Belegost","Nogrod","Azanulbizar","Redhorn","Tumunhazar","Khazad Dum","Glittering Caves","Mount Dolmed","Silver Tooth","Caradhras","Fanuidhol","Anghabar","Amon Rudh","Mickleburg","Gabilgathol"]
 	},
 								{
@@ -210,7 +210,7 @@
 		"outerColor": [21, 121, 133],
 		"innerColor": [220, 229, 230],
 		"uniqueName": "Numenorean Inheritance",
-		"uniques": ["-[25]% Culture cost of acquiring tiles [in all cities]","-[25]% Gold cost of acquiring tiles [in all cities]"],
+		"uniques": ["Gain a free [NoRingsForCS] [in capital]","-[25]% Culture cost of acquiring tiles [in all cities]","-[25]% Gold cost of acquiring tiles [in all cities]"],
 		"cities": ["Annuminas","Amon Sul","Fornost","Rhudaur","Cardolan","Arthedain","Old Forest","Evendim","Nenuial","Tyrn Gothad","Tharbad","Norbury","Elostirion","Archet","Combe","Tharbad","Chetwood","Midgewater"]
 	},
 	    								{
@@ -236,7 +236,7 @@
 		"outerColor": [161, 142, 21],
 		"innerColor": [110, 47, 2],
 		"uniqueName": "Shadow of the East",
-		"uniques": ["[+1 Culture] from each Trade Route", "[+1 Gold] from each Trade Route", "[+1 Science] from each Trade Route"],
+		"uniques": ["Gain a free [NoRingsForCS] [in capital]","[+1 Culture] from each Trade Route", "[+1 Gold] from each Trade Route", "[+1 Science] from each Trade Route"],
 		"cities": ["Rhun","Sea of Rhun","Orocarni","Helcar","Hildorien","Balcoth","Romenor","Kalorme","Red Mountains","Brown Lands","Ninwi","Trui","East Lands","Ithrun Luin","Cuiviened","Rum"]
 	},
 		    								{
@@ -262,7 +262,7 @@
 		"outerColor": [163, 103, 0],
 		"innerColor": [107, 11, 19],
 		"uniqueName": "Desert Tribes",
-		"uniques": ["Gain a free [Harad Training Grounds] [in all cities]","Receive triple Gold from Barbarian encampments and pillaging Cities","[+1 Production, +1 Food] from every [Ivory]","[+2 Culture] from every [Oasis]"],
+		"uniques": ["Gain a free [NoRingsForCS] [in capital]","Gain a free [Harad Training Grounds] [in all cities]","Receive triple Gold from Barbarian encampments and pillaging Cities","[+1 Production, +1 Food] from every [Ivory]","[+2 Culture] from every [Oasis]"],
 		"cities": ["Harad","Haradwaith","Harondor","Far Harad","Sunland","Sutherland","Khand","Incanus","Harnen","Hasharin","Dalamyr","Karna","Badharkan","Hidar","Nafarat","Abrakan","Sunlending","Dharan"]
 	},
 	   {
@@ -287,7 +287,7 @@
 		"outerColor": [235, 223, 91],
 		"innerColor": [36, 98, 102],
 		"uniqueName": "Blessings of the Valar",
-		"uniques": ["+[20]% great person generation in all cities","[+1 Culture, +1 Gold] from every specialist"],
+		"uniques": ["Gain a free [NoRingsForCS] [in capital]","+[20]% great person generation in all cities","[+1 Culture, +1 Gold] from every specialist"],
 		"cities": ["Rivendell","Imladris","Bruinen","Hithaeglir","Hollin","Ost-in-Edhil","Glad Ereg","Sirannon","Mirdam","Emun Naer","Mitheithel","Hoarwell","Glanduin","Nin-in-Eilp","Gath Ulor","Urugarth","Duvumen"]
 	}, 
 {
@@ -313,7 +313,7 @@
 		"outerColor": [8, 46, 8],
 		"innerColor": [59, 138, 75],
 		"uniqueName": "Elven Grace",
-		"uniques": ["All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel."],
+		"uniques": ["Gain a free [NoRingsForCS] [in capital]","All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel."],
 		"cities": ["Mirkwood","Amon Lanc","Emyn Duir","Eryn Lasgalen","Carrock","Anduin Valley","Eastern Mirkwood","Emyn-Nu-Fuin","Greenwood","Taun-Nu-Fuin","Gladden Fields","Taur-En-Daedelos","Langwell","East Blight","Greylin","Langflood"]
 	},
 	//City-States
@@ -327,7 +327,6 @@
 		"defeated": "You fiend! History shall remember this!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [185,132,66],
-		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Beorn's Hall"]
 	},
 	{
@@ -340,7 +339,6 @@
 		"defeated": "They will write songs of this.... pray that they shall be in your favor.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [62,197,252],
-				"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Tom Bombadil's House"]
 	},
 	{
@@ -354,7 +352,6 @@
 		"defeated": "They will write songs of this.... pray that they shall be in your favor.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [211, 220, 103],
-				"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Lake Town"]
 	},
 	{
@@ -368,7 +365,6 @@
 		"defeated": "They will write songs of this.... pray that they shall be in your favor.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [194,97,255],
-		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Dale"]
 	},
 	{
@@ -381,7 +377,6 @@
 		"defeated": "A lonely wind blows through the highlands today. A dirge for Dunland. Can you hear it?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [211,180,113],
-		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Dunland"]
 	},
 	{
@@ -395,7 +390,6 @@
 		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,97,255],
-		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Tol Morwen"]
 	},
 	{
@@ -409,7 +403,6 @@
 		"defeated": "How barbaric. Those who live by the sword shall perish by the sword.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,69,0],
-		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Numenor"]
 	},
 	{
@@ -423,7 +416,6 @@
 		"defeated": "How barbaric. Those who live by the sword shall perish by the sword.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [45,255,86],
-		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Bree"]
 	},
 	{
@@ -437,7 +429,6 @@
 		"defeated": "A wrong calculation, on my part.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [153,204,255],
-		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Himling"]
 	},
 	{
@@ -450,7 +441,6 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [153,255,51],
-		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Eagle's Eyrie"]
 	},
 	{
@@ -463,7 +453,6 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [153,0,76],
-		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Entwood"]
 	},
 	{
@@ -476,7 +465,6 @@
 		"defeated": "What a fine battle! The dead are willing to serve you!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [250,128,114],
-		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Paths of the Dead"]
 	},
 	{
@@ -489,7 +477,6 @@
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [152,0,241],
-		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Shelob's Lair"]
 	},
 	{
@@ -502,7 +489,6 @@
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [0,102,102],
-		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Avathar"]
 	},
 	{
@@ -515,7 +501,6 @@
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,255,0],
-		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Esgaroth"]
 	},
 	{
@@ -528,7 +513,6 @@
 		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,153,255],
-		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Dorwinion"]
 	},
 	{
@@ -541,7 +525,6 @@
 		"defeated": "We... defeated? No... we had so much work to do!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,204,204],
-		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Lossoth"]
 	},
 	{
@@ -554,7 +537,6 @@
 		"defeated": "We... defeated? No... we had so much work to do!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [151,125,0],
-		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Rhosgobel"]
 	},
 	{
@@ -567,7 +549,6 @@
 		"defeated": "So this is how it feels to die...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [0,0,255],
-		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Crissaegrim"]
 	},
 
@@ -581,7 +562,6 @@
 		"defeated": "Congratulations, conquerer. This tribe serves you now.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,128,0],
-		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Kingdom of Rhovanion"]
 	},
 	{
@@ -594,7 +574,6 @@
 		"defeated": "Congratulations, conquerer. This tribe serves you now.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [224,224,224],
-		"uniques": ["Gain a free [NoRingsForCS] [in all cities]"],
 		"cities": ["Ephel Brandir"]
 	},
 	
