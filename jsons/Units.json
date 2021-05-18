@@ -6,7 +6,7 @@
 		"unitType": "Fighter",
 		"uniqueTo": "Isengard",
 		"movement": 1,
-		"range": 3,
+		"range": 4,
 		"rangedStrength": 25,
 		"strength": 1,
 		"promotions": ["Indirect Fire"],
