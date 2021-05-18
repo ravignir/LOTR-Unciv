@@ -942,10 +942,19 @@
 		"uniques": ["Must not be on [Hill]", "+[10]% Production when constructing [Buildings] [in this city]"],
 		"requiredTech": "Economics"
 	},
+		{
+		"name": "Enable Ring Victory",
+		"cost": -1,
+		"isNationalWonder": true,
+		"uniques": ["Enables construction of Spaceship parts"],
+		"requiredTech": "Agriculture",
+	},
 	{
 		"name": "The One Ring to rule them all",
 		"cost": 15,
-		"isWonder": true,
-		"uniques": ["Triggers victory","Consumes [19] [Ring]"]
+				"isNationalWonder": true,
+		"requiredBuilding": "Enable Ring Victory",
+		"uniques": ["Triggers victory","Consumes [19] [Ring]","Not displayed as an available construction without [Enable Ring Victory]"]
+		"requiredTech": "Agriculture",
 	},
 ]

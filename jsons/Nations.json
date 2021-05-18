@@ -142,6 +142,33 @@
 		"cities": ["Carn Dum","Angmar","Forodwaith","East Angmar","Northern Hills","Dor Daedeloth","Forochel","Malenhad","Nan Gurth","Gorothlad","Gundabad","Himbar","Urugarth","Aughaire"]
 	},
 						{
+		"name": "Angmar22",
+		"leaderName": "Witch-king",
+		"adjective": ["Angmar"],
+		"startBias": ["Tundra"],
+		//"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "TBD",
+		"startIntroPart2": "TBD",
+		
+		"declaringWar": "No man can defeat me!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"introduction": "I am Witch-King!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "Yes?!",
+		
+		"tradeRequest": "Want to trade?",
+				
+		"outerColor": [19, 38, 64],
+		"innerColor": [87, 123, 173],
+		"uniqueName": "Terror of the North",
+		"uniqueText": "All Melee units receive Siege I promotion, +1 Movement and +10% Stength for all units during Golden Ages.",
+		"uniques": ["Gain a free [Rings] [in capital]","[Melee] units gain the [Siege I] promotion","+1 Movement for all units during Golden Age", "+10% Strength for all units during Golden Age"],
+		"cities": ["Carn Dum","Angmar","Forodwaith","East Angmar","Northern Hills","Dor Daedeloth","Forochel","Malenhad","Nan Gurth","Gorothlad","Gundabad","Himbar","Urugarth","Aughaire"]
+	},
+						{
 		"name": "Goblins",
 		"leaderName": "Azog",
 		"adjective": ["Goblin"],

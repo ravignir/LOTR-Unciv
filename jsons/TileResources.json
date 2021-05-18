@@ -13,7 +13,7 @@
 	},
 					{
 		"name": "SpecialEnt",
-		"resourceType": "Strategic",
+		"resourceType": "Bonus",
 	},
 					{
 		"name": "Block",
@@ -21,11 +21,11 @@
 	},
 					{
 		"name": "Fellbeast",
-		"resourceType": "Strategic",
+		"resourceType": "Bonus",
 	},
 						{
 		"name": "Nazgul",
-		"resourceType": "Strategic",
+		"resourceType": "Bonus",
 	},
 		{
 		"name": "Elven Rings",
@@ -96,6 +96,7 @@
 		"improvement": "Fishing Boats",
 		"improvementStats": {"food": 1}
 	},
+	/*
 	{
 		"name": "Bison",
 		"resourceType": "Bonus",
@@ -104,6 +105,7 @@
 		"improvement": "Camp",
 		"improvementStats": {"food": 1}
 	},
+	*/
 	
 	// Strategic resources
 	{

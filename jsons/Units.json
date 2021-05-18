@@ -19,7 +19,7 @@
 		"uniqueTo": "Goblins",
 		"movement": 1,
 		"range": 1,
-		"rangedStrength": 45,
+		"rangedStrength": 50,
 		"strength": 1,
 		"uniques": ["Will not be displayed in Civilopedia","Unbuildable","Not displayed as an available construction without [Palace]"],
 		"cost": 600
@@ -104,7 +104,7 @@
 		"rangedStrength": 7,
 		"cost": 40,
 		"requiredTech": "Archery",
-		"obsoleteTech": "Machinery",
+		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
 	},
@@ -119,7 +119,7 @@
 		"rangedStrength": 8,
 		"cost": 40,
 		"requiredTech": "Archery",
-		"obsoleteTech": "Machinery",
+		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
 		// Barbarian unique archer. Has same icon and name but +1 rangedStrength (in vanilla) and slightly different 3d texture
@@ -134,7 +134,6 @@
 		"rangedStrength": 8,
 		"cost": 40,
 		"requiredTech": "Archery",
-		"obsoleteTech": "Machinery",
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow",
 		"uniques": ["+[25]% combat bonus in [Desert]"]
@@ -194,7 +193,6 @@
 		"cost": 56,
 		"requiredTech": "The Wheel",
 		"upgradesTo": "Knight",
-		"obsoleteTech": "Chivalry",
 		"uniques": ["No defensive terrain bonus","+[20]% Strength when defending","Rough terrain penalty","Consumes [1] [Horses]"],
 		"attackSound": "arrow"
 	},
@@ -210,7 +208,6 @@
 		"requiredTech": "The Wheel",
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
-		"obsoleteTech": "Chivalry",
 		"uniques": ["+[50]% Strength vs [City]","No defensive terrain bonus", "Rough terrain penalty"],
 		"attackSound": "throw"
 	},
@@ -220,10 +217,10 @@
 		"unitType": "Ranged",
 		"movement": 2,
 		"strength": 8,
-		"rangedStrength": 14,
+		"rangedStrength": 13,
 		"cost": 75,
 		"requiredResource": "SpecialEnt",
-		"uniques": ["+[100]% Strength vs [City]","No defensive terrain bonus", "Rough terrain penalty"],
+		"uniques": ["+[100]% Strength vs [City]","No defensive terrain bonus", "Rough terrain penalty","Can build only one per city with Forests"],
 		"attackSound": "throw"
 	},
 	{
@@ -262,7 +259,6 @@
 		"strength": 12,
 		"cost": 56,
 		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
 				"requiredResource": "Copper",
 		"uniques": ["+[50]% Strength vs [Mounted]","No movement cost to pillage"],
@@ -277,9 +273,8 @@
 		"strength": 14,
 		"cost": 60,
 		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-				"requiredResource": "Copper",
+		"requiredResource": "Copper",
 		"uniques": ["+[50]% Strength vs [Mounted]"],
 		"attackSound": "metalhit"
 	},
@@ -323,7 +318,6 @@
 		"rangedStrength": 11,
 		"cost": 75,
 		"requiredTech": "Construction",
-		"obsoleteTech": "Machinery",
 		"upgradesTo": "Crossbowman",
 		"attackSound": "arrow"
 	},
@@ -338,7 +332,6 @@
 		"rangedStrength": 12,
 		"cost": 75,
 		"requiredTech": "Construction",
-		"obsoleteTech": "Machinery",
 		"upgradesTo": "Crossbowman",
 		"uniques": ["Ignores terrain cost"],
 		"attackSound": "arrow"
@@ -349,11 +342,8 @@
 		"unitType": "Bomber",
 		"movement": 1,
 		"strength": 1,
-		"rangedStrength": 14,
+		"rangedStrength": 15,
 		"cost": 75,
-		"requiredTech": "Construction",
-		"obsoleteTech": "Machinery",
-		"upgradesTo": "Crossbowman",
 		"attackSound": "arrow",
 		"uniques": ["Unbuildable","Will not be displayed in Civilopedia"]
 	},
@@ -423,7 +413,6 @@
 		"requiredTech": "Horseback Riding",
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
-		"obsoleteTech": "Metallurgy",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","Penalty vs City 33%" ],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
@@ -439,7 +428,6 @@
 		"requiredTech": "Horseback Riding",
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
-		"obsoleteTech": "Metallurgy",
 		"uniques": ["Can move after attacking","Penalty vs City 33%"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
@@ -456,7 +444,6 @@
 		"requiredTech": "Horseback Riding",
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
-		"obsoleteTech": "Metallurgy",
 		"uniques": ["Can move after attacking","Penalty vs City 33%"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
