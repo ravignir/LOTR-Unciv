@@ -335,7 +335,7 @@
 		"culture": 1,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Culture cost of adopting new Policies reduced by [33]%","+[50]% [Culture] [in all cities]","Indicates the capital city","Provides [1] [Special]"]
+		"uniques": ["Culture cost of adopting new Policies reduced by [50]%","+[50]% [Culture] [in all cities]","Indicates the capital city","Provides [1] [Special]"]
 	},
 	{
 		"name": "Monument",
