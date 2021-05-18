@@ -96,7 +96,6 @@
 		"improvement": "Fishing Boats",
 		"improvementStats": {"food": 1}
 	},
-	/*
 	{
 		"name": "Bison",
 		"resourceType": "Bonus",
@@ -105,7 +104,6 @@
 		"improvement": "Camp",
 		"improvementStats": {"food": 1}
 	},
-	*/
 	
 	// Strategic resources
 	{
@@ -130,7 +128,7 @@
 		"name": "Niter",
 		"resourceType": "Strategic",
 		"revealedBy": "Chemistry",
-		"terrainsCanBeFoundOn": ["Desert","Coast","Tundra","Snow","Marsh","Jungle"],
+		"terrainsCanBeFoundOn": ["Grassland","Plains","Desert","Tundra","Snow","Hill"],
 		"production": 1,
 		"improvement": "Quarry",
 		"improvementStats": {"production": 2}
