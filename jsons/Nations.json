@@ -11,7 +11,7 @@
 		"leaderName": "Theoden",
 		"adjective": ["Rohan"],
 		"startBias": ["Plains"],
-		//"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
@@ -38,7 +38,7 @@
 		"leaderName": "Aragorn",
 		"adjective": ["Gondorian"],
 		"startBias": ["Grassland"],
-		//"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
@@ -65,7 +65,7 @@
 		"leaderName": "Saruman",
 		"adjective": ["Isengard"],
 		"startBias": ["Hill"],
-		//"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
@@ -92,7 +92,7 @@
 		"leaderName": "Sauron",
 		"adjective": ["Mordor"],
 		"startBias": ["Avoid [Grassland]"],
-		//"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
@@ -119,7 +119,7 @@
 		"leaderName": "Witch-king",
 		"adjective": ["Angmar"],
 		"startBias": ["Tundra"],
-		//"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
@@ -141,6 +141,7 @@
 		"uniques": ["Gain a free [Rings] [in capital]","[Melee] units gain the [Siege I] promotion","+1 Movement for all units during Golden Age", "+10% Strength for all units during Golden Age"],
 		"cities": ["Carn Dum","Angmar","Forodwaith","East Angmar","Northern Hills","Dor Daedeloth","Forochel","Malenhad","Nan Gurth","Gorothlad","Gundabad","Himbar","Urugarth","Aughaire"]
 	},
+/*
 						{
 		"name": "Angmar22",
 		"leaderName": "Witch-king",
@@ -168,12 +169,13 @@
 		"uniques": ["Gain a free [Rings] [in capital]","[Melee] units gain the [Siege I] promotion","+1 Movement for all units during Golden Age", "+10% Strength for all units during Golden Age"],
 		"cities": ["Carn Dum","Angmar","Forodwaith","East Angmar","Northern Hills","Dor Daedeloth","Forochel","Malenhad","Nan Gurth","Gorothlad","Gundabad","Himbar","Urugarth","Aughaire"]
 	},
+	*/
 						{
 		"name": "Goblins",
 		"leaderName": "Azog",
 		"adjective": ["Goblin"],
 		"startBias": ["Hill"],
-		//"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
@@ -200,7 +202,7 @@
 		"leaderName": "Dain II",
 		"adjective": ["Dwarven"],
 		"startBias": ["Hill"],
-		//"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
@@ -226,7 +228,7 @@
 		"name": "Arnor",
 		"leaderName": "Elendil",
 		"adjective": ["Arnorian"],
-		//"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
@@ -253,7 +255,7 @@
 		"leaderName": "Khamul",
 		"adjective": ["Easterling"],
 		"startBias": ["Plains","Desert"],
-		//"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
@@ -280,7 +282,7 @@
 		"leaderName": "Suladan",
 		"adjective": ["Haradrim"],
 		"startBias": ["Desert"],
-		//"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
@@ -306,7 +308,7 @@
 		"name": "Noldor Elves",
 		"leaderName": "Elrond",
 		"adjective": ["Noldor"],
-		//"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
@@ -333,7 +335,7 @@
 		"leaderName": "Thranduil",
 		"adjective": ["Sindar"],
 		"startBias": ["Forest","Jungle"],
-		//"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
