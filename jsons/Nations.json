@@ -162,7 +162,7 @@
 		"tradeRequest": "Want to trade?",
 				
 		"outerColor": [54, 31, 33],
-		"innerColor": [79, 82, 5],
+		"innerColor": [125, 145, 26],
 		"uniqueName": "Horror of the Deeps",
 		"uniqueText": "+20% Combat Bonus in Friendly Land. Melee units gain 50% more Experience from combat. A Balrog appears in your capital when you discover Mining"
 		"uniques": ["Gain a free [Rings] [in capital]","+[20]% combat bonus for units fighting in [Friendly Land]","[Melee] units gain [50]% more Experience from combat","Receive free [Balrog] when you discover [Mining]"],
@@ -188,8 +188,8 @@
 		
 		"tradeRequest": "Want to trade?",
 				
-		"outerColor": [199, 176, 62],
-		"innerColor": [133, 130, 101],
+		"outerColor": [219, 210, 75],
+		"innerColor": [89, 88, 74],
 		"uniqueName": "Dwarven Riches",
 		"uniqueText": "+1 Production and +1 Gold from Strategic resources. Double quantity of all mined resources.",
 		"uniques": ["Gain a free [Rings] [in capital]","[+1 Production] from every [Strategic resource]","[+1 Gold] from every [Strategic resource]","Double quantity of [Salt] produced","Double quantity of [Silver] produced","Double quantity of [Gems] produced","Double quantity of [Gold Ore] produced","Double quantity of [Copper] produced","Double quantity of [Mithril] produced","Double quantity of [Iron] produced"],
