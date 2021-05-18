@@ -13,7 +13,7 @@
 	},
 					{
 		"name": "SpecialEnt",
-		"resourceType": "Bonus",
+		"resourceType": "Strategic",
 	},
 					{
 		"name": "Block",
@@ -21,11 +21,11 @@
 	},
 					{
 		"name": "Fellbeast",
-		"resourceType": "Bonus",
+		"resourceType": "Strategic",
 	},
 						{
 		"name": "Nazgul",
-		"resourceType": "Bonus",
+		"resourceType": "Strategic",
 	},
 		{
 		"name": "Elven Rings",
@@ -37,7 +37,7 @@
 	},
 		{
 		"name": "Dwarven Rings",
-		"resourceType": "Strategic",
+		"resourceType": "Bonus",
 	},
 	// Bonus resources
 	{
