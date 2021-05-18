@@ -29,7 +29,8 @@
 		"outerColor": [2, 112, 11],
 		"innerColor": [224, 218, 157],
 		"uniqueName": "Muster the Rohirrim",
-		"uniques": ["Gain a free [NoRingsForCS] [in capital]","Starts with [Animal Husbandry]","+[1] Movement for all [Mounted] units","Double quantity of [Horses] produced","[+1 Food] from every [Horses]"],
+		"uniqueText": "Starts with Animal Husbandry. +1 Movement for all Mounted units, double quantity of Horses and Horses provide +1 Food."
+		"uniques": ["Gain a free [Rings] [in capital]","Starts with [Animal Husbandry]","+[1] Movement for all [Mounted] units","Double quantity of [Horses] produced","[+1 Food] from every [Horses]"],
 		"cities": ["Edoras","Helm's Deep","Snowbourn","Aldburg","Dunharrow","Grimslade","Fords of Isen","Gap of Rohan","Eastemnet","Eastfold","Westemnet","Folde","Westfold","The Wold","West-March","Minhiriath","Meduseld","Framsburg"]
 	},
 		{
@@ -55,7 +56,8 @@
 		"outerColor": [1, 0, 84],
 		"innerColor": [255,255,255],
 		"uniqueName": "For the White City",
-		"uniques": ["Gain a free [NoRingsForCS] [in capital]","Tile improvement speed +25%","Receive free [Worker] when you discover [Pottery]"],
+		"uniqueText": "Workers improve tiles 25% faster, receive a free Worker when you discover Pottery",
+		"uniques": ["Gain a free [Rings] [in capital]","Tile improvement speed +25%","Receive free [Worker] when you discover [Pottery]"],
 		"cities": ["Minas Tirith","Osgiliath","Ithilien","Cair Andros","Dol Amroth","Lamedon","Henneth Annun","Lossarnach","Lebennin","Anfalas","Belfalas","Morthond","Ringlo Vale","Andrast","Pelargir","Linhir","Tarnost","Ethring"]
 	},
 			{
@@ -81,7 +83,8 @@
 		"outerColor": [64, 64, 64],
 		"innerColor": [255,255,255],
 		"uniqueName": "The Voice of Saruman",
-		"uniques": ["Gain a free [NoRingsForCS] [in capital]","67% chance to earn 25 Gold and recruit a Barbarian unit from a conquered encampment","+[25]% Production when constructing [Land] units [in capital]","May cast a lightning bolt"],
+		"uniqueText": "67% chance to earn 25 Gold and recruit a Barbarian unit from a conquered encampment. +25% Production towards Land units in capital. Capital can struck a Lighting Bolt (1 per Era) on the nearby enemies."
+		"uniques": ["Gain a free [Rings] [in capital]","67% chance to earn 25 Gold and recruit a Barbarian unit from a conquered encampment","+[25]% Production when constructing [Land] units [in capital]","May cast a lightning bolt"],
 		"cities": ["Isengard","Angrenost","Fords of Isen","Nan Curunir","Dol Baran","Angren River","Gwathlo","Methedras","Adorn","Wellinghall","Dunbog","Starkmoor","Pren Gwydh","Bonevales","Ral Methedras","Derndingle"]
 	},
 				{
@@ -107,7 +110,8 @@
 		"outerColor": [107, 0, 0],
 		"innerColor": [207, 120, 0],
 		"uniqueName": "Gather them all!",
-		"uniques": ["Gain a free [NoRingsForCS] [in capital]","[Great General] is earned [50]% faster","Receive free [Nazgul] when you discover [Trapping]","Gain a free [Nazgul Supply] [in capital]"],
+		"uniqueText": "Great Generals are generated 50% faster. Receives a free Nazgul when you discover Trapping",
+		"uniques": ["Gain a free [Rings] [in capital]","[Great General] is earned [50]% faster","Receive free [Nazgul] when you discover [Trapping]","Gain a free [Nazgul Supply] [in capital]"],
 		"cities": ["Barad Dur","Orodruin","Gorgoroth","Udun","Nurn","Dagorlad","Durthang","Cirith Gorgor","Ered Lithui","Ered Duath","Cirith Ungol","Morgul Pass","Black Gate","Nargroth","Morgai","Morannon","Seregost","Lithlad","Carach Angren"]
 	},
 					{
@@ -133,7 +137,8 @@
 		"outerColor": [19, 38, 64],
 		"innerColor": [87, 123, 173],
 		"uniqueName": "Terror of the North",
-		"uniques": ["Gain a free [NoRingsForCS] [in capital]","[Melee] units gain the [Siege I] promotion","+1 Movement for all units during Golden Age", "+10% Strength for all units during Golden Age"],
+		"uniqueText": "All Melee units receive Siege I promotion, +1 Movement and +10% Stength for all units during Golden Ages.",
+		"uniques": ["Gain a free [Rings] [in capital]","[Melee] units gain the [Siege I] promotion","+1 Movement for all units during Golden Age", "+10% Strength for all units during Golden Age"],
 		"cities": ["Carn Dum","Angmar","Forodwaith","East Angmar","Northern Hills","Dor Daedeloth","Forochel","Malenhad","Nan Gurth","Gorothlad","Gundabad","Himbar","Urugarth","Aughaire"]
 	},
 						{
@@ -159,7 +164,8 @@
 		"outerColor": [54, 31, 33],
 		"innerColor": [79, 82, 5],
 		"uniqueName": "Horror of the Deeps",
-		"uniques": ["Gain a free [NoRingsForCS] [in capital]","+[20]% combat bonus for units fighting in [Friendly Land]","[Melee] units gain [50]% more Experience from combat","Receive free [Balrog] when you discover [Bronze Working]"],
+		"uniqueText": "+20% Combat Bonus in Friendly Land. Melee units gain 50% more Experience from combat. A Balrog appears in your capital when you discover Mining"
+		"uniques": ["Gain a free [Rings] [in capital]","+[20]% combat bonus for units fighting in [Friendly Land]","[Melee] units gain [50]% more Experience from combat","Receive free [Balrog] when you discover [Mining]"],
 		"cities": ["Moria","Goblin town","Withered Heath","Ettenmoors","High Pass","Misty Mountains","Grey Mountains","Dwarrodelf","Glaurung","Ancalagon","Scatha","Gram Mountain","Rhimdath","Cold Fields","Hoardale"]
 	},
 							{
@@ -185,7 +191,8 @@
 		"outerColor": [199, 176, 62],
 		"innerColor": [133, 130, 101],
 		"uniqueName": "Dwarven Riches",
-		"uniques": ["Gain a free [NoRingsForCS] [in capital]","[+1 Production] from every [Strategic resource]","[+1 Gold] from every [Strategic resource]","Double quantity of [Salt] produced","Double quantity of [Silver] produced","Double quantity of [Gems] produced","Double quantity of [Gold Ore] produced","Double quantity of [Copper] produced","Double quantity of [Mithril] produced","Double quantity of [Iron] produced"],
+		"uniqueText": "+1 Production and +1 Gold from Strategic resources. Double quantity of all mined resources.",
+		"uniques": ["Gain a free [Rings] [in capital]","[+1 Production] from every [Strategic resource]","[+1 Gold] from every [Strategic resource]","Double quantity of [Salt] produced","Double quantity of [Silver] produced","Double quantity of [Gems] produced","Double quantity of [Gold Ore] produced","Double quantity of [Copper] produced","Double quantity of [Mithril] produced","Double quantity of [Iron] produced"],
 		"cities": ["Erebor","Esgaroth","Ered Luin","Iron Hills","Belegost","Nogrod","Azanulbizar","Redhorn","Tumunhazar","Khazad Dum","Glittering Caves","Mount Dolmed","Silver Tooth","Caradhras","Fanuidhol","Anghabar","Amon Rudh","Mickleburg","Gabilgathol"]
 	},
 								{
@@ -210,7 +217,8 @@
 		"outerColor": [21, 121, 133],
 		"innerColor": [220, 229, 230],
 		"uniqueName": "Numenorean Inheritance",
-		"uniques": ["Gain a free [NoRingsForCS] [in capital]","-[25]% Culture cost of acquiring tiles [in all cities]","-[25]% Gold cost of acquiring tiles [in all cities]"],
+		"uniqueText": "-25% Culture cost of acquiring tiles in all cities, -25% Gold cost of acquiring tiles in all cities.",
+		"uniques": ["Gain a free [Rings] [in capital]","-[25]% Culture cost of acquiring tiles [in all cities]","-[25]% Gold cost of acquiring tiles [in all cities]"],
 		"cities": ["Annuminas","Amon Sul","Fornost","Rhudaur","Cardolan","Arthedain","Old Forest","Evendim","Nenuial","Tyrn Gothad","Tharbad","Norbury","Elostirion","Archet","Combe","Tharbad","Chetwood","Midgewater"]
 	},
 	    								{
@@ -236,7 +244,8 @@
 		"outerColor": [161, 142, 21],
 		"innerColor": [110, 47, 2],
 		"uniqueName": "Shadow of the East",
-		"uniques": ["Gain a free [NoRingsForCS] [in capital]","[+1 Culture] from each Trade Route", "[+1 Gold] from each Trade Route", "[+1 Science] from each Trade Route"],
+		"uniqueText": "+1 Culture, +1 Gold, +1 Science from each Trade Route.",
+		"uniques": ["Gain a free [Rings] [in capital]","[+1 Culture] from each Trade Route", "[+1 Gold] from each Trade Route", "[+1 Science] from each Trade Route"],
 		"cities": ["Rhun","Sea of Rhun","Orocarni","Helcar","Hildorien","Balcoth","Romenor","Kalorme","Red Mountains","Brown Lands","Ninwi","Trui","East Lands","Ithrun Luin","Cuiviened","Rum"]
 	},
 		    								{
@@ -262,7 +271,8 @@
 		"outerColor": [163, 103, 0],
 		"innerColor": [107, 11, 19],
 		"uniqueName": "Desert Tribes",
-		"uniques": ["Gain a free [NoRingsForCS] [in capital]","Gain a free [Harad Training Grounds] [in all cities]","Receive triple Gold from Barbarian encampments and pillaging Cities","[+1 Production, +1 Food] from every [Ivory]","[+2 Culture] from every [Oasis]"],
+		"uniqueText": "Receive triple Gold from Barbarian encampments and pillaging Cities. +1 Production and +1 Fodd from every Ivory and +2 Culture from each Oasis.",
+		"uniques": ["Gain a free [Rings] [in capital]","Gain a free [Harad Training Grounds] [in all cities]","Receive triple Gold from Barbarian encampments and pillaging Cities","[+1 Production, +1 Food] from every [Ivory]","[+2 Culture] from every [Oasis]"],
 		"cities": ["Harad","Haradwaith","Harondor","Far Harad","Sunland","Sutherland","Khand","Incanus","Harnen","Hasharin","Dalamyr","Karna","Badharkan","Hidar","Nafarat","Abrakan","Sunlending","Dharan"]
 	},
 	   {
@@ -287,7 +297,8 @@
 		"outerColor": [235, 223, 91],
 		"innerColor": [36, 98, 102],
 		"uniqueName": "Blessings of the Valar",
-		"uniques": ["Gain a free [NoRingsForCS] [in capital]","+[20]% great person generation in all cities","[+1 Culture, +1 Gold] from every specialist"],
+		"uniqueText": "+20% great person generation in all cities. +1 Culture and +1 Gold from every specialist.",
+		"uniques": ["Gain a free [Rings] [in capital]","+[20]% great person generation in all cities","[+1 Culture, +1 Gold] from every specialist"],
 		"cities": ["Rivendell","Imladris","Bruinen","Hithaeglir","Hollin","Ost-in-Edhil","Glad Ereg","Sirannon","Mirdam","Emun Naer","Mitheithel","Hoarwell","Glanduin","Nin-in-Eilp","Gath Ulor","Urugarth","Duvumen"]
 	}, 
 {
@@ -313,7 +324,8 @@
 		"outerColor": [8, 46, 8],
 		"innerColor": [59, 138, 75],
 		"uniqueName": "Elven Grace",
-		"uniques": ["Gain a free [NoRingsForCS] [in capital]","All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel."],
+		"uniqueText": "All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.", 
+		"uniques": ["Gain a free [Rings] [in capital]","All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel."],
 		"cities": ["Mirkwood","Amon Lanc","Emyn Duir","Eryn Lasgalen","Carrock","Anduin Valley","Eastern Mirkwood","Emyn-Nu-Fuin","Greenwood","Taun-Nu-Fuin","Gladden Fields","Taur-En-Daedelos","Langwell","East Blight","Greylin","Langflood"]
 	},
 	//City-States

@@ -13,13 +13,13 @@
 	},
 	{
 		"name":"Artist",
-		"culture":2,
+		"culture":3,
 		"greatPersonPoints": {"culture":3},
 		"color": [160,32,240]
 	},
 	{
 		"name":"Engineer",
-		"production":2,
+		"production":3,
 		"greatPersonPoints": {"production":3},
 		"color": [139,69,19]
 	}

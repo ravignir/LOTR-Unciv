@@ -3,14 +3,14 @@
 	// Info according to Civilization Wiki and https://www.civfanatics.com/civ5/info/units/
 	{
 		"name": "Lightning Bolt",
-		"unitType": "Bomber",
+		"unitType": "Fighter",
 		"uniqueTo": "Isengard",
 		"movement": 1,
 		"range": 3,
 		"rangedStrength": 25,
 		"strength": 1,
 		"promotions": ["Indirect Fire"],
-		"uniques": ["Will not be displayed in Civilopedia","Strikes a Lightning bolt","Self-destructs when attacking","Consumes [1] [Special]","Not displayed as an available construction without [Palace]"],
+		"uniques": ["Will not be displayed in Civilopedia","Strikes a Lightning bolt","Self-destructs when attacking","Consumes [1] [Special]"],
 		"cost": 60
 	},
 		{
@@ -21,7 +21,7 @@
 		"range": 1,
 		"rangedStrength": 45,
 		"strength": 1,
-		"uniques": ["Will not be displayed in Civilopedia","Unbuildable","Consumes [1] [Special]","Not displayed as an available construction without [Palace]"],
+		"uniques": ["Will not be displayed in Civilopedia","Unbuildable","Not displayed as an available construction without [Palace]"],
 		"cost": 600
 	},
 			{

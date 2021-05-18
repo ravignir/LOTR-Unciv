@@ -3,7 +3,7 @@
 	{
 		"name": "Heal Instantly",
 		"effect": "Heal this Unit by 50 HP; Doing so will consume this opportunity to choose a Promotion",
-		"unitTypes": ["Melee","Mounted","Scout","Siege","Ranged","Armor","WaterMelee","WaterRanged","WaterSubmarine"]
+		"unitTypes": ["Melee","Mounted","Scout","Siege","Ranged","Armor","WaterMelee","WaterRanged"]
 	},
 	
 	// Ranged+Siege
@@ -53,56 +53,56 @@
 		"name": "Extended Range",
 		"prerequisites": ["Accuracy III","Barrage III","Targeting II","Bombardment II", "Wolfpack II"],
 		"effect": "+1 Range",
-		"unitTypes": ["Ranged","Siege","WaterRanged","WaterSubmarine"]
+		"unitTypes": ["Ranged","Siege","WaterRanged"]
 	},
 	{
 		"name": "Indirect Fire",
 		"prerequisites": ["Accuracy III","Barrage III"],
 		"effect": "Ranged attacks may be performed over obstacles",
-		"unitTypes": ["Ranged","Siege"]
+		"unitTypes": ["Ranged","Siege","WaterRanged"]
 	},
 	
 	// Melee, Mounted+Armor
 	{
 		"name": "Shock I",
 		"effect": "+[15]% Strength in [Open terrain]",
-		"unitTypes": ["Melee","Mounted","Armor"]
+		"unitTypes": ["Melee","Mounted"]
 	},
 	{
 		"name": "Shock II",
 		"prerequisites": ["Shock I"],
 		"effect": "+[15]% Strength in [Open terrain]",
-		"unitTypes": ["Melee","Mounted","Armor"]
+		"unitTypes": ["Melee","Mounted"]
 	},
 	{
 		"name": "Shock III",
 		"prerequisites": ["Shock II"],
 		"effect": "+[15]% Strength in [Open terrain]",
-		"unitTypes": ["Melee","Mounted","Armor"]
+		"unitTypes": ["Melee","Mounted"]
 	},
 
 	{
 		"name": "Drill I",
 		"effect": "+[15]% Strength in [Rough terrain]",
-		"unitTypes": ["Melee","Mounted","Armor"]
+		"unitTypes": ["Melee","Mounted"]
 	},
 	{
 		"name": "Drill II",
 		"prerequisites": ["Drill I"],
 		"effect": "+[15]% Strength in [Rough terrain]",
-		"unitTypes": ["Melee","Mounted","Armor"]
+		"unitTypes": ["Melee","Mounted"]
 	},
 	{
 		"name": "Drill III",
 		"prerequisites": ["Drill II"],
 		"effect": "+[15]% Strength in [Rough terrain]",
-		"unitTypes": ["Melee","Mounted","Armor"]
+		"unitTypes": ["Melee","Mounted"]
 	},
 	{
 		"name": "Charge",
 		"prerequisites": ["Shock II","Drill II"],
 		"effect": "+[33]% Strength vs [wounded units]",
-		"unitTypes": ["Mounted","Armor"]
+		"unitTypes": ["Mounted"]
 	},
 	{
 		"name": "Besiege", // Not called "Siege" in order to not conflict with siege type units for translations
@@ -127,7 +127,7 @@
 		"name": "Blitz",
 		"prerequisites": ["Shock III","Drill III"],
 		"effect": "1 additional attack per turn",
-		"unitTypes": ["Melee","Mounted","Armor"]
+		"unitTypes": ["Melee","Mounted"]
 	},
 	{
 		"name": "Woodsman",
@@ -205,144 +205,35 @@
 		"unitTypes": ["WaterMelee"]
 	},
 	
-	// Submarine
-	{
-		"name": "Wolfpack I",
-		"effect": "+[25]% Strength when attacking",
-		"unitTypes": ["WaterSubmarine"]
-	},
-	{
-		"name": "Wolfpack II",
-		"prerequisites": ["Wolfpack I"],
-		"effect": "+[25]% Strength when attacking",
-		"unitTypes": ["WaterSubmarine"]
-	},
-	{
-		"name": "Wolfpack III",
-		"prerequisites": ["Wolfpack II"],
-		"effect": "+[25]% Strength when attacking",
-		"unitTypes": ["WaterSubmarine"]
-	},
-	
-	// Aircraft Carrier
-	{
-		"name": "Armor Plating I",
-		"effect": "+[25]% Strength when defending",
-		"unitTypes": ["WaterAircraftCarrier"]
-	},
-	{
-		"name": "Armor Plating II",
-		"prerequisites": ["Armor Plating I"],
-		"effect": "+[25]% Strength when defending",
-		"unitTypes": ["WaterAircraftCarrier"]
-	},
-	{
-		"name": "Armor Plating III",
-		"prerequisites": ["Armor Plating II"],
-		"effect": "+[25]% Strength when defending",
-		"unitTypes": ["WaterAircraftCarrier"]
-	},
-	{
-		"name": "Flight Deck I",
-		"effect": "Can carry 1 extra air unit",
-		"unitTypes": ["WaterAircraftCarrier"]
-	},
-	{
-		"name": "Flight Deck II",
-		"prerequisites": ["Flight Deck I"],
-		"effect": "Can carry 1 extra air unit",
-		"unitTypes": ["WaterAircraftCarrier"]
-	},
-	{
-		"name": "Flight Deck III",
-		"prerequisites": ["Flight Deck II"],
-		"effect": "Can carry 1 extra air unit",
-		"unitTypes": ["WaterAircraftCarrier"]
-	},
-
 	// Bomber
 	{
 		"name": "Siege I",
 		"effect": "+[33]% Strength vs [City]",
-		"unitTypes": ["Bomber"]
+		"unitTypes": ["Fighter"]
 	},
 	{
 		"name": "Siege II",
 		"prerequisites": ["Siege I"],
 		"effect": "+[33]% Strength vs [City]",
-		"unitTypes": ["Bomber"]
+		"unitTypes": ["Fighter"]
 	},
 	{
 		"name": "Siege III",
 		"prerequisites": ["Siege II"],
 		"effect": "+[34]% Strength vs [City]",
-		"unitTypes": ["Bomber"]
-	},
-	{
-		"name": "Evasion",
-		"prerequisites": ["Siege II", "Bombardment II"],
-		"effect": "Reduces damage taken from interception by 50%",
-		"unitTypes": ["Bomber"]
-	},
-	
-	// Fighter
-	{
-		"name": "Interception I",
-		"effect": "Bonus when intercepting [33]%",
 		"unitTypes": ["Fighter"]
 	},
-	{
-		"name": "Interception II",
-		"prerequisites": ["Interception I"],
-		"effect": "Bonus when intercepting [33]%",
-		"unitTypes": ["Fighter"]
-	},
-	{
-		"name": "Interception III",
-		"prerequisites": ["Interception II"],
-		"effect": "Bonus when intercepting [34]%",
-		"unitTypes": ["Fighter"]
-	},
-	/*
-	{
-		"name": "Dogfighting I",
-		"effect": "Bonus when performing air sweep [33]%", // todo
-		"unitTypes": ["Fighter"]
-	},
-	{
-		"name": "Dogfighting II",
-		"prerequisites": ["Dogfighting I"],
-		"effect": "Bonus when performing air sweep [33]%",
-		"unitTypes": ["Fighter"]
-	},
-	{
-		"name": "Dogfighting III",
-		"prerequisites": ["Dogfighting II"],
-		"effect": "Bonus when performing air sweep [34]%",
-		"unitTypes": ["Fighter"]
-	}
-	*/
-	
-	{
-		"name": "Sortie",
-		"prerequisites": ["Interception II", "Dogfighting II"],
-		"effect": "1 extra Interception may be made per turn",
-		"unitTypes": ["Fighter"]
-	},
-	
 	{
 		"name": "Operational Range",
-		"prerequisites": ["Interception I", /*"Dogfighting I",*/ "Siege I", "Bombardment I"],
+		"effect": "+1 Range",
+		"unitTypes": ["Fighter"]
+	},	
+		{
+		"name": "Operational Range II",
+		"prerequisites": ["Operational Range"],
 		"effect": "+2 Range",
-		"unitTypes": ["Fighter","Bomber"]
-	},
-	{
-		"name": "Air Repair",
-		"prerequisites": ["Interception II", /*"Dogfighting II",*/ "Siege II", "Bombardment II"],
-		"effect": "Unit will heal every turn, even if it performs an action",
-		"unitTypes": ["Fighter","Bomber"]
-	},
-	
+		"unitTypes": ["Fighter"]
+	},	
 	// Mixed
 	{
 		"name": "Cover I",
@@ -367,34 +258,21 @@
 		"prerequisites": ["Shock II","Drill II","Targeting I",
 			"Bombardment I","Boarding Party I", "Coastal Raider I", "Wolfpack I"],
 		"effect": "+1 Movement",
-		"unitTypes": ["Mounted","WaterMelee","WaterRanged","Armor","WaterSubmarine"]
+		"unitTypes": ["Mounted","WaterMelee","WaterRanged"]
 	},
 	{
 		"name": "Sentry",
 		"prerequisites": ["Accuracy I","Barrage I","Shock II","Drill II","Bombardment I","Targeting I","Boarding Party I","Coastal Raider I"],
 		"effect": "+1 Visibility Range",
-		"unitTypes": ["Melee","Mounted","WaterRanged","Armor","WaterMelee"]
+		"unitTypes": ["Melee","Mounted","WaterRanged","WaterMelee"]
 	},
 	{
 		"name": "Logistics",
 		"prerequisites": ["Accuracy III","Barrage III","Targeting III", "Wolfpack III",
 			"Bombardment III", "Coastal Raider III","Boarding Party III","Siege III"],
 		"effect": "1 additional attack per turn",
-		"unitTypes": ["Ranged","Siege","WaterMelee","WaterRanged","WaterSubmarine","Fighter","Bomber"]
+		"unitTypes": ["Ranged","Siege","WaterMelee","WaterRanged"]
 	},
-	
-	{
-		"name": "Ambush I",
-		"effect": "+[25]% Strength vs [Armor]",
-		"unitTypes": ["Melee","Fighter","Bomber"]
-	},
-	{
-		"name": "Ambush II",
-		"prerequisites": ["Ambush I"],
-		"effect": "+[25]% Strength vs [Armor]",
-		"unitTypes": ["Melee","Fighter","Bomber"]
-	},
-	
 	
 	// Water ranged and air units
 	{
@@ -422,16 +300,10 @@
 		"unitTypes": ["WaterRanged"]
 	},
 	{
-		"name": "Targeting I (air)",
-		"prerequisites": ["Interception I","Dogfighting I", "Siege I","Bombardment I"],
-		"effect": "+[15]% Strength vs [water units]",
-		"unitTypes": ["Fighter","Bomber"]
-	},
-	{
 		"name": "Targeting II",
-		"prerequisites": ["Targeting I","Targeting I (air)"],
+		"prerequisites": ["Targeting I"],
 		"effect": "+[15]% Strength vs [water units]",
-		"unitTypes": ["WaterRanged","Fighter","Bomber"]
+		"unitTypes": ["WaterRanged"]
 	},
 	{
 		"name": "Targeting III",
@@ -446,27 +318,7 @@
 		"effect": "+[15]% Combat Strength"
 	},
 	{
-		"name": "Great Generals I", // only for Companion Cavalry, Keshik and their subsequent upgrades
-		"effect": "[Great General] is earned [50]% faster"
-	},
-	{
-		"name": "Great Generals II", // only for Samurai and subsequent upgrades
-		"effect": "[Great General] is earned [100]% faster"
-	},
-	{
-		"name": "Quick Study", // only for Keshik and subsequent upgrades
-		"effect": "[50]% Bonus XP gain"
-	},
-	{
-		"name": "Haka War Dance", // only for Maori Warrior and subsequent upgrades
-		"effect": "-10% combat strength for adjacent enemy units"
-	},
-	{
 		"name": "Rejuvenation", // only for Units that have been close to Natural Wonder Fountain of Youth
 		"effect": "All healing effects doubled"
 	},
-	{
-		"name": "Slinger Withdraw", // only for Slinger and subsequent upgrades
-		"effect": "May withdraw before melee ([80]%)"
-	}
 ]

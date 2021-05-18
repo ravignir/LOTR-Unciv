@@ -17,7 +17,7 @@
 		"columnNumber": 1,
 		"era": "First Age",
 		"techCost": 70, 
-		"buildingCost": 60,
+		"buildingCost": 70,
 		"techs": [
 			{
 				"name": "Pottery",
@@ -50,8 +50,8 @@
 		"columnNumber": 2,
 		"era": "First Age",
 		"techCost": 120, 
-		"buildingCost": 75,
-		"wonderCost": 185,
+		"buildingCost": 90,
+		"wonderCost": 220,
 		"techs": [
 			{
 				"name": "Sailing",
@@ -101,8 +101,8 @@
 		"columnNumber": 3,
 		"era": "First Age",
 		"techCost": 200, 
-		"buildingCost": 100,
-		"wonderCost": 250,
+		"buildingCost": 120,
+		"wonderCost": 280,
 		"techs": [
 			{
 				"name": "Optics",
@@ -136,8 +136,8 @@
 		"columnNumber": 4,
 		"era": "Second Age",
 		"techCost": 380, 
-		"buildingCost": 120,
-		"wonderCost": 300,
+		"buildingCost": 140,
+		"wonderCost": 330,
 		"techs": [
 			{
 				"name": "Philosophy",
@@ -170,8 +170,8 @@
 		"columnNumber": 5,
 		"era": "Second Age",
 		"techCost": 650,
-		"buildingCost": 160,
-		"wonderCost": 400,
+		"buildingCost": 185,
+		"wonderCost": 450,
 		"techs": [
 			{
 				"name": "Theology",
@@ -203,10 +203,10 @@
 	},
 	{
 		"columnNumber": 6,
-		"era": "Second Age",
+		"era": "Third Age",
 		"techCost": 1050, 
-		"buildingCost": 200,
-		"wonderCost": 500,
+		"buildingCost": 235,
+		"wonderCost": 560,
 		"techs": [
 			{
 				"name": "Compass",
@@ -253,8 +253,8 @@
 		"columnNumber": 7,
 		"era": "Third Age",
 		"techCost": 1750, 
-		"buildingCost": 250,
-		"wonderCost": 625,
+		"buildingCost": 270,
+		"wonderCost": 685,
 		"techs": [
 			{
 				"name": "Astronomy",
@@ -282,19 +282,19 @@
 				"quote": "'It is a newspaper's duty to print the news and raise hell.' - The Chicago Times"
 			},
 			{
-				"name": "Chemistry",
+				"name": "Metallurgy",
 				"row": 10,
 				"prerequisites": ["Physics","Steel"],
-				"quote": "'The day when two army corps can annihilate each other in one second, all civilized nations, it is to be hoped, will recoil from war and discharge their troops.' - Alfred Nobel"
-			}
+				"quote": "'There never was a good knife made of bad steel.' - Benjamin Franklin"
+			},
 		]	
 	},
 	{
 		"columnNumber": 8,
 		"era": "Third Age",
 		"techCost": 3800, 
-		"buildingCost": 300,
-		"wonderCost": 750,
+		"buildingCost": 375,
+		"wonderCost": 825,
 		"techs": [
 			{
 				"name": "Navigation",
@@ -314,12 +314,13 @@
 				"prerequisites": ["Banking","Printing Press"],
 				"quote": "'Compound interest is the most powerful force in the universe.' - Albert Einstein"
 			},
-			{
-				"name": "Metallurgy",
-				"row": 9,
-				"prerequisites": ["Printing Press","Chemistry"],
-				"quote": "'There never was a good knife made of bad steel.' - Benjamin Franklin"
-			},
+						{
+				"name": "Chemistry",
+				"row": 10,
+				"prerequisites": ["Printing Press","Metallurgy"],
+				"quote": "'The day when two army corps can annihilate each other in one second, all civilized nations, it is to be hoped, will recoil from war and discharge their troops.' - Alfred Nobel"
+			}
+
 		]	
 	},
 		{
@@ -332,7 +333,7 @@
 		{
 				"name": "Future Tech",
 				"row": 5,
-				"prerequisites": ["Metallurgy","Economics","Architecture","Navigation"],
+				"prerequisites": ["Chemistry","Economics","Architecture","Navigation"],
 				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
 				"quote": "'I think we agree, the past is over.' - George W. Bush"
 			},
