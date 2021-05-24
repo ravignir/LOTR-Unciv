@@ -236,7 +236,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Outlaw Spearman",
+		"name": "Rhudaur Spearman",
 		"replaces": "Spearman",
 		"uniqueTo": "Barbarians",
 		"unitType": "Melee",
@@ -360,7 +360,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Outlaw Swordsman",
+		"name": "Orc Marauder",
 		"unitType": "Melee",
 		"replaces": "Swordsman",
 		"uniqueTo": "Barbarians",
