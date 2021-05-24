@@ -198,5 +198,30 @@
 		"aisExchangeTechs": true,
 		"turnBarbariansCanEnterPlayerTiles": 0,
 		"clearBarbarianCampReward": 25
+	},
+		{
+		"name": "Guru",
+		"baseHappiness": 9,
+		"extraHappinessPerLuxury": 0,
+		"researchCostModifier": 1,
+		"unitCostModifier": 1,
+		"buildingCostModifier": 1,
+		"policyCostModifier": 1,
+		"unhappinessModifier": 1,
+		"barbarianBonus": 0,
+		"startingUnits": ["Settler", "Warrior"],
+		"aiCityGrowthModifier": 0.4,
+		"aiUnitCostModifier": 0.4,
+		"aiBuildingCostModifier": 0.4,
+		"aiWonderCostModifier": 0.8,
+		"aiBuildingMaintenanceModifier": 0.25,
+		"aiUnitMaintenanceModifier": 0.25,
+		"aiFreeTechs": ["Pottery","Animal Husbandry","Mining","The Wheel","Sailing"],
+		"aiMajorCivStartingUnits": ["Settler", "Warrior", "Settler", "Warrior", "Warrior", "Worker", "Worker", "Scout", "Scout", "Worker"],
+		"aiCityStateStartingUnits": ["Settler", "Warrior"],
+		"aiUnhappinessModifier": 0.5,
+		"aisExchangeTechs": true,
+		"turnBarbariansCanEnterPlayerTiles": 0,
+		"clearBarbarianCampReward": 0
 	}
 ]

@@ -255,7 +255,7 @@
 		"leaderName": "Khamul",
 		"adjective": ["Easterling"],
 		"startBias": ["Plains","Desert"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
@@ -308,7 +308,7 @@
 		"name": "Noldor Elves",
 		"leaderName": "Elrond",
 		"adjective": ["Noldor"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
