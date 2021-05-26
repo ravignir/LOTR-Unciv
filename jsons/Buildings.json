@@ -648,7 +648,7 @@
 		"requiredTech": "Engineering"
 	},
 	{
-		"name": "The Great Wall",
+		"name": "Girdle of Melian ",
 		"culture": 3,
 		"greatPersonPoints": {"production": 1},
 		"isWonder": true,
