@@ -317,8 +317,47 @@
 		"name": "Morale", // Heroic Epic
 		"effect": "+[15]% Combat Strength"
 	},
+		{
+		"name": "Hero", // Heroic Epic
+		"effect": "Access to hero promotions"
+	},
 	{
 		"name": "Rejuvenation", // only for Units that have been close to Natural Wonder Fountain of Youth
 		"effect": "All healing effects doubled"
+	},
+	// hero
+		{
+		"name": "Strength I", 
+		"prerequisites": ["Hero"],
+		"effect": "+[10]% Combat Strength",
+		"unitTypes": ["Ranged","Melee","Mounted"]
+	},
+			{
+		"name": "Strength II", 
+		"prerequisites": ["Strength I"],
+		"effect": "+[15]% Combat Strength",
+		"unitTypes": ["Ranged","Melee","Mounted"]
+	},
+			{
+		"name": "Strength III", 
+		"prerequisites": ["Strength II"],
+		"effect": "+[20]% Combat Strength",
+		"unitTypes": ["Ranged","Melee","Mounted"]
+	},
+				{
+		"name": "Strength IV", 
+		"prerequisites": ["Strength III"],
+		"effect": "+[25]% Combat Strength",
+		"unitTypes": ["Ranged","Melee","Mounted"]
+	},
+					{
+		"name": "Strength V", 
+		"prerequisites": ["Strength IV"],
+		"effect": "+[30]% Combat Strength",
+		"unitTypes": ["Ranged","Melee","Mounted"]
+	},
+			{
+		"name": "Tunnel", 
+		"effect": "May Paradrop up to [8] tiles from inside friendly territory"
 	},
 ]

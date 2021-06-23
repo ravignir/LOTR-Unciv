@@ -39,6 +39,14 @@
 		"name": "Dwarven Rings",
 		"resourceType": "Bonus",
 	},
+			{
+		"name": "Good Hero",
+		"resourceType": "Bonus",
+	},
+				{
+		"name": "Evil Hero",
+		"resourceType": "Bonus",
+	},
 	// Bonus resources
 	{
 		"name": "Cattle",

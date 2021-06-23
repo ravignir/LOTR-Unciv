@@ -272,13 +272,13 @@
 		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Fellbeast]","Unsellable"]
 		},
 		    {
-        "name": "More Lighting Bolts",
+        "name": "More Lightning Bolts",
         "uniqueTo": "Isengard",
         "cost": -1,
         "uniques": ["Not displayed as an available construction without [Palace]","Provides [1] [Special]","Unsellable","Unlocked with [Second Age]","Will not be displayed in Civilopedia"]
     },
 	{
-        "name": "More Lighting Bolts",
+        "name": "More Lightning Bolt",
         "uniqueTo": "Isengard",
         "cost": -1,
         "uniques": ["Not displayed as an available construction without [Palace]","Provides [1] [Special]","Unsellable","Unlocked with [Third Age]","Will not be displayed in Civilopedia"]
@@ -295,7 +295,7 @@
 		"uniqueTo": "Arnor",
 		"cost": 20,
 		"hurryCostModifier": 40,
-		"uniques": ["Free [Watcher] appears","6 tiles in every direction always visible","Unsellable"],
+		"uniques": ["Free [Watchtower Guard] appears","6 tiles in every direction always visible","Unsellable"],
 	},
 				{
 		"name": "Ent Supply",
@@ -323,6 +323,121 @@
 		"isNationalWonder": true,
 		"hurryCostModifier": 40,
 		"uniques": ["Provides [3] [Elven Rings]","Provides [9] [Men Rings]","Provides [7] [Dwarven Rings]","Will not be displayed in Civilopedia","Unbuildable","Unsellable"],
+	},
+	// Hero spawners
+				{
+		"name": "Summon Gandalf",
+		"isWonder": true,
+		"cost": 170,
+		"uniques": ["Free [Gandalf, the Grey] appears","Unsellable","Consumes [1] [Good Hero]","Not displayed as an available construction without [Good Hero]","Will not be displayed in Civilopedia"],
+	},
+					{
+		"name": "Summon Elrond",
+		"isWonder": true,
+		"cost": 180,
+		"uniques": ["Free [Elrond] appears","Unsellable","Consumes [1] [Good Hero]","Not displayed as an available construction without [Good Hero]","Will not be displayed in Civilopedia"],
+	},
+					{
+		"name": "Summon Galadriel",
+		"isWonder": true,
+		"cost": 220,
+		"uniques": ["Free [Galadriel] appears","Unsellable","Consumes [1] [Good Hero]","Not displayed as an available construction without [Good Hero]","Will not be displayed in Civilopedia"],
+	},
+					{
+		"name": "Summon Eowyn",
+		"isWonder": true,
+		"cost": 150,
+		"uniques": ["Free [Eowyn] appears","Unsellable","Consumes [1] [Good Hero]","Not displayed as an available construction without [Good Hero]","Will not be displayed in Civilopedia"],
+	},
+						{
+		"name": "Summon Aragorn",
+		"isWonder": true,
+		"cost": 190,
+		"uniques": ["Free [Aragorn] appears","Unsellable","Consumes [1] [Good Hero]","Not displayed as an available construction without [Good Hero]","Will not be displayed in Civilopedia"],
+	},
+						{
+		"name": "Summon Theoden",
+		"isWonder": true,
+		"cost": 170,
+		"uniques": ["Free [Theoden] appears","Unsellable","Consumes [1] [Good Hero]","Not displayed as an available construction without [Good Hero]","Will not be displayed in Civilopedia"],
+	},
+							{
+		"name": "Summon Gimli",
+		"isWonder": true,
+		"cost": 200,
+		"uniques": ["Free [Gimli] appears","Unsellable","Consumes [1] [Good Hero]","Not displayed as an available construction without [Good Hero]","Will not be displayed in Civilopedia"],
+	},
+							{
+		"name": "Summon Legolas",
+		"isWonder": true,
+		"cost": 230,
+		"uniques": ["Free [Legolas] appears","Unsellable","Consumes [1] [Good Hero]","Not displayed as an available construction without [Good Hero]","Will not be displayed in Civilopedia"],
+	},
+							{
+		"name": "Summon Faramir",
+		"isWonder": true,
+		"cost": 175,
+		"uniques": ["Free [Faramir] appears","Unsellable","Consumes [1] [Good Hero]","Not displayed as an available construction without [Good Hero]","Will not be displayed in Civilopedia"],
+	},
+								{
+		"name": "Summon Wormtongue",
+		"isWonder": true,
+		"cost": 140,
+		"uniques": ["Free [Wormtongue] appears","Unsellable","Consumes [1] [Evil Hero]","Not displayed as an available construction without [Evil Hero]","Will not be displayed in Civilopedia"],
+	},
+	{
+		"name": "Summon Smaug",
+		"isWonder": true,
+		"cost": 220,
+		"uniques": ["Free [Smaug] appears","Unsellable","Consumes [1] [Evil Hero]","Not displayed as an available construction without [Evil Hero]","Will not be displayed in Civilopedia"],
+	},
+	{
+		"name": "Summon Witch-king",
+		"isWonder": true,
+		"cost": 260,
+		"uniques": ["Free [Witch-king] appears","Unsellable","Consumes [1] [Evil Hero]","Not displayed as an available construction without [Evil Hero]","Will not be displayed in Civilopedia"],
+	},
+	{
+		"name": "Summon Saruman",
+		"isWonder": true,
+		"cost": 225,
+		"uniques": ["Free [Saruman] appears","Unsellable","Consumes [1] [Evil Hero]","Not displayed as an available construction without [Evil Hero]","Will not be displayed in Civilopedia"],
+	},
+	{
+		"name": "Summon Shelob",
+		"isWonder": true,
+		"cost": 240,
+		"uniques": ["Free [Shelob] appears","Unsellable","Consumes [1] [Evil Hero]","Not displayed as an available construction without [Evil Hero]","Will not be displayed in Civilopedia"],
+	},
+	{
+		"name": "Summon Azog",
+		"isWonder": true,
+		"cost": 190,
+		"uniques": ["Free [Azog] appears","Unsellable","Consumes [1] [Evil Hero]","Not displayed as an available construction without [Evil Hero]","Will not be displayed in Civilopedia"],
+	},
+	{
+		"name": "Summon Gothmog",
+		"isWonder": true,
+		"cost": 160,
+		"uniques": ["Free [Gothmog] appears","Unsellable","Consumes [1] [Evil Hero]","Not displayed as an available construction without [Evil Hero]","Will not be displayed in Civilopedia"],
+	},
+	{
+		"name": "Summon Ancalagon",
+		"isWonder": true,
+		"cost": 280,
+		"uniques": ["Free [Ancalagon] appears","Unsellable","Consumes [1] [Evil Hero]","Not displayed as an available construction without [Evil Hero]","Will not be displayed in Civilopedia"],
+	},
+		{
+		"name": "Good",
+		"isNationalWonder": true,
+		"cost": 1,
+		"uniques": ["Provides [1] [Good Hero]","Unbuildable"],
+	},
+		{
+		"name": "Evil",
+		"isNationalWonder": true,
+		"cost": 1,
+		"uniques": ["Provides [1] [Evil Hero]","Unbuildable"],
 	},
 	
 	// Ancient Era
@@ -648,7 +763,7 @@
 		"requiredTech": "Engineering"
 	},
 	{
-		"name": "Girdle of Melian ",
+		"name": "The Great Wall",
 		"culture": 3,
 		"greatPersonPoints": {"production": 1},
 		"isWonder": true,
