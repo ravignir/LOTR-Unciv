@@ -751,7 +751,7 @@
 		"culture": 1,
 		"isWonder": true,
 		"greatPersonPoints": {"production": 1},
-		"uniques": ["Must be next to [Forest]", "[+1 Production, +1 Culture] from [Forest] tiles in this city"],
+		"uniques": ["Must be next to [Forest]", "Free [Ent] appears","[+1 Production, +1 Culture] from [Forest] tiles in this city"],
 		"requiredTech": "Currency",
 	},
 	{
@@ -763,7 +763,7 @@
 		"requiredTech": "Engineering"
 	},
 	{
-		"name": "The Great Wall",
+		"name": "The Deeping Wall",
 		"culture": 3,
 		"greatPersonPoints": {"production": 1},
 		"isWonder": true,
