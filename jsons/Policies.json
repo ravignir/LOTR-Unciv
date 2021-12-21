@@ -6,7 +6,7 @@
 		"policies": [
 			{
 				"name": "Aristocracy",
-				"uniques": ["+[15]% Production when constructing [Wonders]", "[+1 Happiness] per [10] population in all cities"],
+				"uniques": ["[+15]% Production when constructing [All] wonders [in all cities]", "[+1 Happiness] per [10] population [in all cities]"],
 				"row": 1,
 				"column": 1
 			},
@@ -24,7 +24,7 @@
 			},
 			{
 				"name": "Landed Elite",
-				"uniques": ["+[10]% growth [in capital]", "[+2 Food] [in capital]"],
+				"uniques": ["[+10]% growth [in capital]", "[+2 Food] [in capital]"],
 				"requires": ["Legalism"],
 				"row": 2,
 				"column": 2
@@ -38,7 +38,7 @@
 			},
 			{
 				"name": "Tradition Complete",
-				"uniques": ["+[15]% growth [in all cities]","[+2 Food] [in all cities]"]
+				"uniques": ["[+15]% growth [in all cities]", "[+2 Food] [in all cities]"]
 			}
 		]
 	},
@@ -49,7 +49,7 @@
 		"policies": [
 			{
 				"name": "Collective Rule",
-				"uniques": ["+[50]% Production when constructing [Settler] units [in capital]", "Free [Settler] appears"],
+				"uniques": ["[+50]% Production when constructing [Settler] units [in capital]", "Free [Settler] appears"],
 				"row": 1,
 				"column": 1
 			},
@@ -61,7 +61,7 @@
 			},
 			{
 				"name": "Republic",
-				"uniques": ["[+1 Production] [in all cities]", "+[5]% Production when constructing [Buildings]"],
+				"uniques": ["[+1 Production] [in all cities]", "[+5]% Production when constructing [All] buildings [in all cities]"],
 				"requires": ["Collective Rule"],
 				"row": 2,
 				"column": 1
@@ -75,7 +75,7 @@
 			},
 			{
 				"name": "Meritocracy",
-				"uniques": ["[+1 Happiness] [in all cities connected to capital]", "Unhappiness from population decreased by [5]%"],
+				"uniques": ["[+1 Happiness] [in all cities connected to capital]", "[-5]% unhappiness from population [in all non-occupied cities]"],
 				"requires": ["Citizenship"],
 				"row": 2,
 				"column": 5
@@ -94,7 +94,7 @@
 		"policies": [
 			{
 				"name": "Warrior Code",
-				"uniques":["+[20]% Production when constructing [Melee] units [in all cities]"],
+				"uniques":["[+20]% Production when constructing [Melee] units [in all cities]"],
 				"row": 1,
 				"column": 2
 			},
@@ -133,7 +133,7 @@
 	},{
 		"name": "Piety",
 		"era": "First Age",
-		"uniques": ["+[15]% Production when constructing [Culture] buildings"],
+		"uniques": ["[+15]% Production when constructing [Culture] buildings [in all cities]"],
 		"policies": [
 			{
 				"name": "Organized Religion",
@@ -144,7 +144,7 @@
 			},
 			{
 				"name": "Mandate Of Heaven",
-				"uniques": ["50% of excess happiness added to culture towards policies"],
+				"uniques": ["[50]% of excess happiness converted to [Culture]"],
 				"row": 1,
 				"column": 5
 			},
@@ -157,7 +157,7 @@
 			},
 			{
 				"name": "Reformation",
-				"uniques": ["+[33]% [Culture] [in all cities with a world wonder]", "Empire enters golden age"],
+				"uniques": ["[+33]% [Culture] [in all cities with a world wonder]", "Empire enters golden age"],
 				"requires": ["Organized Religion"],
 				"row": 2,
 				"column": 3
@@ -219,7 +219,7 @@
 	},*/
 	{
 		"name": "Commerce",
-		"uniques": ["+[25]% [Gold] [in capital]"],
+		"uniques": ["[+25]% [Gold] [in capital]"],
 		"era": "Second Age",
 		"policies": [
 			{
@@ -269,7 +269,7 @@
 		"policies": [
 			{
 				"name": "Secularism",
-				"uniques": ["[+2 Science] from every specialist"],
+				"uniques": ["[+2 Science] from every specialist [in all cities]"],
 				"row": 1,
 				"column": 2
 			},
@@ -393,7 +393,7 @@
 		"policies": [
 			{
 				"name": "Populism",
-				"uniques": ["[Wounded] units deal +[25]% damage"],
+				"uniques": ["[+25]% Strength <for [Wounded] units>"],
 				"row": 1,
 				"column": 1
 			},
@@ -412,14 +412,14 @@
 			},
 			{
 				"name": "Police State",
-				"uniques": ["[+3 Happiness] from every [Courthouse]", "+[100]% Production when constructing [Courthouse]"],
+				"uniques": ["[+3 Happiness] from every [Courthouse]", "[+100]% Production when constructing [Courthouse] buildings [in all cities]"],
 				"requires": ["Militarism"],
 				"row": 2,
 				"column": 5
 			},
 			{
 				"name": "Total War",
-				"uniques": ["+[15]% Production when constructing [Military] units [in all cities]", "New [Military] units start with [15] Experience"],
+				"uniques": ["[+15]% Production when constructing [Military] units [in all cities]", "New [Military] units start with [15] Experience [in all cities]"],
 				"requires": ["Police State","Fascism"],
 				"row": 3,
 				"column": 4
