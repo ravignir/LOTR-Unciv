@@ -1,0 +1,108 @@
+   [
+    {
+        "name": "First Age",
+        "researchAgreementCost": 150,
+        "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
+        "startingWorkerCount": 0,
+        "startingMilitaryUnitCount": 1,
+        "startingMilitaryUnit": "Scout",
+        "settlerPopulation": 1,
+        "baseUnitBuyCost": 200,
+        "startPercent": 0,
+        "friendBonus": {
+            "Cultured": ["Provides [+3 Culture] per turn"],
+            "Maritime": ["Provides [+2 Food] [in capital] per turn"],
+            "Mercantile": ["Provides [+2] Happiness"],
+            "Militaristic": ["Provides military units every ≈[20] turns"]
+        },
+        "allyBonus": {
+            "Cultured": ["Provides [+6 Culture] per turn"],
+            "Maritime": ["Provides [+2 Food] [in capital] per turn", "Provides [+1 Food] [in all cities] per turn"],
+            "Mercantile": ["Provides [+2] Happiness", "Provides a unique luxury"],
+            "Militaristic": ["Provides military units every ≈[17] turns"]
+        },
+        "iconRGB": [255, 87, 35]
+    },
+    {
+        "name": "Second Age",
+        "researchAgreementCost": 200,
+        "startingSettlerCount": 1,
+        "startingWorkerCount": 0,
+        "startingMilitaryUnitCount": 2,
+        "startingMilitaryUnit": "Warrior",
+        "startingGold": 10,
+        "startingCulture": 125,
+        "settlerPopulation": 1,
+		    "settlerBuildings": ["Monument", "Granary"],
+        "baseUnitBuyCost": 250,
+        "startPercent": 15,
+        "friendBonus": {
+            "Cultured": ["Provides [+4 Culture] per turn"],
+            "Maritime": ["Provides [+2 Food] [in capital] per turn"],
+            "Mercantile": ["Provides [+2] Happiness"],
+            "Militaristic": ["Provides military units every ≈[20] turns"]
+        },
+        "allyBonus": {
+            "Cultured": ["Provides [+8 Culture] per turn"],
+            "Maritime": ["Provides [+2 Food] [in capital] per turn", "Provides [+1 Food] [in all cities] per turn"],
+            "Mercantile": ["Provides [+2] Happiness", "Provides a unique luxury"],
+            "Militaristic": ["Provides military units every ≈[17] turns"]
+        },
+        "iconRGB": [233, 31, 99]
+    },
+    {
+        "name": "Third Age",
+        "researchAgreementCost": 250,
+        "startingSettlerCount": 2,
+        "startingWorkerCount": 1,
+        "startingMilitaryUnitCount": 3,
+        "startingMilitaryUnit": "Spearman",
+        "startingGold": 50,
+        "startingCulture": 175,
+        "settlerPopulation": 2,
+        "settlerBuildings": ["Monument", "Granary", "Lighthouse", "Walls"],
+        "baseUnitBuyCost": 350,
+        "startPercent": 30,
+        "friendBonus": {
+            "Cultured": ["Provides [+8 Culture] per turn"],
+            "Maritime": ["Provides [+2 Food] [in capital] per turn"],
+            "Mercantile": ["Provides [+3] Happiness"],
+            "Militaristic": ["Provides military units every ≈[20] turns"]
+        },
+        "allyBonus": {
+            "Cultured": ["Provides [+16 Culture] per turn"],
+            "Maritime": ["Provides [+2 Food] [in capital] per turn", "Provides [+1 Food] [in all cities] per turn"],
+            "Mercantile": ["Provides [+3] Happiness", "Provides a unique luxury"],
+            "Militaristic": ["Provides military units every ≈[17] turns"]
+        },
+        "iconRGB": [157, 39, 176]
+    },
+    {
+        "name": "Fourth Age",
+        "researchAgreementCost": 300,
+        "startingSettlerCount": 3,
+        "startingWorkerCount": 2,
+        "startingMilitaryUnitCount": 3,
+        "startingMilitaryUnit": "Pikeman",
+        "startingGold": 150,
+        "startingCulture": 300,
+        "settlerPopulation": 3,
+        "settlerBuildings": ["Monument", "Granary", "Lighthouse", "Walls", "Market", "Workshop", "Temple", "Library", "Colosseum"],
+		    "startingObsoleteWonders": ["The Great Archive", "Alqualondë"],
+        "baseUnitBuyCost": 500,
+        "startPercent": 50,
+        "friendBonus": {
+            "Cultured": ["Provides [+12 Culture] per turn"],
+            "Maritime": ["Provides [+2 Food] [in capital] per turn"],
+            "Mercantile": ["Provides [+3] Happiness"],
+            "Militaristic": ["Provides military units every ≈[20] turns"]
+        },
+        "allyBonus": {
+            "Cultured": ["Provides [+24 Culture] per turn"],
+            "Maritime": ["Provides [+2 Food] [in capital] per turn", "Provides [+1 Food] [in all cities] per turn"],
+            "Mercantile": ["Provides [+3] Happiness", "Provides a unique luxury"],
+            "Militaristic": ["Provides military units every ≈[16] turns"]
+        },
+        "iconRGB": [33, 150, 243]
+    }
+]
