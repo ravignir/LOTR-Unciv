@@ -2,7 +2,7 @@
 	{
 		"name": "Tradition",
 		"era": "First Age",
-		"uniques": ["[+3 Culture] [in capital]", "-[25]% Culture cost of acquiring tiles [in all cities]"],
+		"uniques": ["[+3 Culture] [in capital]", "[-25]% Culture cost of natural border growth [in all cities]"],
 		"policies": [
 			{
 				"name": "Aristocracy",
@@ -106,7 +106,7 @@
 			},
 			{
 				"name": "Military Tradition",
-				"uniques":["[Military] units gain [50]% more Experience from combat"],
+				"uniques":["[50]% XP gained from combat <for [Military] units>"],
 				"requires": ["Warrior Code"],
 				"row": 2,
 				"column": 2
@@ -150,7 +150,7 @@
 			},
 			{
 				"name": "Theocracy",
-				"uniques": ["+[10]% [Gold] from every [Temple]"],
+				"uniques": ["[+10]% [Gold] from every [Temple]"],
 				"requires": ["Organized Religion"],
 				"row": 2,
 				"column": 1
@@ -172,7 +172,7 @@
 			},
 			{
 				"name": "Piety Complete",
-				"uniques": ["Culture cost of adopting new Policies reduced by [10]%"]
+				"uniques": ["[-10]% Culture cost of adopting new Policies"]
 			}
 		]
 	},/*{
@@ -224,7 +224,7 @@
 		"policies": [
 			{
 				"name": "Trade Unions",
-				"uniques": ["Maintenance on roads & railroads reduced by [33]%", "[+2 Gold] from each Trade Route"],
+				"uniques": ["[-33]% maintenance on road & railroads", "[+2 Gold] from each Trade Route"],
 				"row": 1,
 				"column": 2
 			},
@@ -258,7 +258,7 @@
 			},
 			{
 				"name": "Commerce Complete",
-				"uniques": ["[+1 Gold] from every [Trading post]", "Double gold from Great Merchant trade missions"]
+				"uniques": ["[+1 Gold] from every [Trading post]", "[+100]% Gold from Great Merchant trade missions"]
 			}
 		]
 	},
@@ -282,7 +282,7 @@
 			},
 			{
 				"name": "Free Thought",
-				"uniques": ["[+1 Science] from every [Trading post]", "+[17]% [Science] from every [University]"],
+				"uniques": ["[+1 Science] from every [Trading post]", "[+17]% [Science] from every [University]"],
 				"requires": ["Secularism"],
 				"row": 2,
 				"column": 1
@@ -350,7 +350,7 @@
 		"policies": [
 			{
 				"name": "Constitution",
-				"uniques": ["[+2 Culture] from every Wonder"],
+				"uniques": ["[+2 Culture] from every [Wonder]"],
 				"row": 1,
 				"column": 1
 			},
@@ -382,7 +382,7 @@
 			},
 			{
 				"name": "Freedom Complete",
-				"uniques": ["Tile yield from Great Improvements +100%", "Golden Age length increased by [50]%"]
+				"uniques": ["Tile yield from Great Improvements +100%", "[+50]% Golden Age length"]
 			}
 		]
 	},

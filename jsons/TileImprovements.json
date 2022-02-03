@@ -7,8 +7,8 @@
 		"turnsToBuild": 7,
 		"techRequired": "Agriculture",
 		"uniques": ["Can also be built on tiles adjacent to fresh water", 
-			"[+1 Food] on [Fresh water] tiles once [Mathematics] is discovered",
-			"[+1 Food] on [non-fresh water] tiles once [Civil Service] is discovered"],
+			"[+1 Food] from [Fresh water] tiles <after discovering [Mathematics]>",
+			"[+1 Food] from [non-fresh water] tiles <after discovering [Civil Service]>"],
 		"shortcutKey": "F"
 	},
 		{
@@ -19,8 +19,8 @@
 		"food": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Agriculture",
-		"uniques": [ "[+1 Food] on [Fresh water] tiles once [Construction] is discovered",
-			"[+1 Food] on [non-fresh water] tiles once [Physics] is discovered"],
+		"uniques": [ "[+1 Food] from [Fresh water] tiles <after discovering [Construction]>",
+			"[+1 Food] from [non-fresh water] tiles <after discovering [Physics]>"],
 	},
 	{
 		"name": "Lumber mill",
@@ -28,7 +28,7 @@
 		"production": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Mining",
-		"uniques": ["[+1 Production] once [Metal Casting] is discovered"],
+		"uniques": ["[+1 Production] <after discovering [Metal Casting]>"],
 		"shortcutKey": "L"
 	},
 		{
@@ -39,7 +39,7 @@
 		"gold": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Construction",
-		"uniques": ["[+1 Production] once [Chivalry] is discovered"],
+		"uniques": ["[+1 Production] <after discovering [Chivalry]>"],
 
 	},
 	{
@@ -99,7 +99,7 @@
 		"name": "Quarry",
 		"turnsToBuild": 8,
 		"techRequired": "Masonry",
-		"uniques": ["[+1 Production] <after discovering [Metalurgy]>"],
+		"uniques": ["[+1 Production] <after discovering [Metallurgy]>"],
 		"shortcutKey": "Q"
 	},
 	{
