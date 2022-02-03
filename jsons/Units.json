@@ -32,7 +32,7 @@
 	"cost": 10,
 	"promotions": ["Hero"],
 	"upgradesTo": "Gandalf, the White",
-	"uniques": ["Can be upgraded to Gandalf, the White", "+[200]% Strength vs [Balrog]","Unbuildable"],
+	"uniques": ["Can be upgraded to Gandalf, the White", "[200]% Strength <vs [Balrog] units>","Unbuildable"],
 	},
 		{
 	"name": "Gandalf, the White",
@@ -44,7 +44,7 @@
 	"cost": 120,
 	"promotions": ["Hero"],
 	"requiredTech": "Horseback Riding",
-	"uniques": ["+[200]% Strength vs [Balrog]","Unbuildable"],
+	"uniques": ["[200]% Strength <vs [Balrog] units>","Unbuildable"],
 	},
 		{
 	"name": "Aragorn",
@@ -73,7 +73,7 @@
 	"strength": 18,
 	"cost": 10,
 	"promotions": ["Hero"],
-	"uniques": ["+[50]% Strength when attacking","Unbuildable"],
+	"uniques": ["[+50]% Strength <when attacking>","Unbuildable"],
 	},
 				{
 	"name": "Legolas",
@@ -83,7 +83,7 @@
 	"rangedStrength": 18,
 	"cost": 10,
 	"promotions": ["Hero","Logistics"],
-	"uniques": ["Unbuildable","+[50]% Strength vs [Melee]"],
+	"uniques": ["Unbuildable","[50]% Strength <vs [Melee] units>"],
 	},
 					{
 	"name": "Theoden",
@@ -101,7 +101,7 @@
 	"strength": 14,
 	"cost": 10,
 	"promotions": ["Hero"],
-	"uniques": ["Unbuildable","+[300]% Strength vs [Witch-King]"],
+	"uniques": ["Unbuildable","[300]% Strength <vs [Witch-King] units>"],
 	},
 							{
 	"name": "Galadriel",
@@ -110,7 +110,7 @@
 	"strength": 15,
 	"cost": 10,
 	"promotions": ["Hero","Blitz"],
-	"uniques": ["Unbuildable","+[50]% Strength vs [City]"],
+	"uniques": ["Unbuildable","[50]% Strength <vs cities>"],
 	},
 						{
 	"name": "Elrond",
@@ -119,7 +119,7 @@
 	"strength": 16,
 	"cost": 10,
 	"promotions": ["Hero"],
-	"uniques": ["Unbuildable","+1 Visibility Range"],
+	"uniques": ["Unbuildable","[+1] Sight"],
 	},
 		{
 	"name": "Saruman",
@@ -215,7 +215,7 @@
 		"name": "Worker",
 		"unitType": "Civilian",
 		"movement": 2,
-		"uniques": ["Can build improvements on tiles"],
+		"uniques": ["Can build [Land] improvements on tiles"],
 		"cost": 70
 	},
 	
@@ -318,7 +318,7 @@
 		"movement": 4,
 		"cost": 30,
 		"requiredTech": "Sailing",
-		"uniques": ["Cannot enter ocean tiles until Astronomy", "May create improvements on water resources"]
+		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources"]
 	},
 	{
 		"name": "Trireme",
@@ -367,7 +367,7 @@
 		"cost": 56,
 		"requiredTech": "The Wheel",
 		"upgradesTo": "Knight",
-		"uniques": ["No defensive terrain bonus","+[20]% Strength when defending","Rough terrain penalty","Consumes [1] [Horses]"],
+		"uniques": ["No defensive terrain bonus","[+20]% Strength <when defending>","Rough terrain penalty","Consumes [1] [Horses]"],
 		"attackSound": "arrow"
 	},
 		{
@@ -382,7 +382,7 @@
 		"requiredTech": "The Wheel",
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
-		"uniques": ["+[50]% Strength vs [City]","No defensive terrain bonus", "Rough terrain penalty"],
+		"uniques": ["[50]% Strength <vs cities>","No defensive terrain bonus", "Rough terrain penalty"],
 		"attackSound": "throw"
 	},
 			{
@@ -394,7 +394,7 @@
 		"rangedStrength": 13,
 		"cost": 75,
 		"requiredResource": "SpecialEnt",
-		"uniques": ["+[100]% Strength vs [City]","No defensive terrain bonus", "Rough terrain penalty","Can build only one per city with Forests"],
+		"uniques": ["[100]% Strength <vs cities>","No defensive terrain bonus", "Rough terrain penalty","Can build only one per city with Forests"],
 		"attackSound": "throw"
 	},
 	{
@@ -407,7 +407,7 @@
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
 		"requiredResource": "Copper",
-		"uniques": ["+[50]% Strength vs [Mounted]"],
+		"uniques": ["[50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -421,7 +421,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["+[50]% Strength vs [Mounted]"],
+		"uniques": ["[50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
 	},
 		{
@@ -435,7 +435,7 @@
 		"requiredTech": "Bronze Working",
 		"upgradesTo": "Pikeman",
 				"requiredResource": "Copper",
-		"uniques": ["+[50]% Strength vs [Mounted]","No movement cost to pillage"],
+		"uniques": ["[50]% Strength <vs [Mounted] units>","No movement cost to pillage"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -449,7 +449,7 @@
 		"requiredTech": "Bronze Working",
 		"upgradesTo": "Pikeman",
 		"requiredResource": "Copper",
-		"uniques": ["+[50]% Strength vs [Mounted]"],
+		"uniques": ["[50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
 	},
 	/* Classical Era */
@@ -464,8 +464,8 @@
 		"obsoleteTech": "Physics",
 		"upgradesTo": "Catapult",
 				"requiredResource": "Copper",
-		"uniques": ["+[200]% Strength vs [City]", "No defensive terrain bonus",
-			"Must set up to ranged attack", "Limited Visibility"],
+		"uniques": ["[200]% Strength <vs cities>", "No defensive terrain bonus",
+			"Must set up to ranged attack", "[-1] Sight"],
 		"hurryCostModifier": 20,
 		"attackSound": "throw"
 	},
@@ -573,7 +573,7 @@
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
 		"requiredResource": "Iron",
-		"uniques": ["+[40]% Strength vs [City]"],
+		"uniques": ["[40]% Strength <vs cities>"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
@@ -644,7 +644,7 @@
 		"rangedStrength": 19,
 		"cost": 120,
 		"requiredTech": "Machinery",
-		"uniques": ["Ignores terrain cost","+1 Visibility Range"],
+		"uniques": ["Ignores terrain cost","[+1] Sight"],
 		"attackSound": "arrow"
 	},
 		{
@@ -670,7 +670,7 @@
 		"requiredTech": "Physics",
 		"obsoleteTech": "Chemistry",
 		"upgradesTo": "Trebuchet",
-		"uniques": ["+[200]% Strength vs [City]","No defensive terrain bonus","Must set up to ranged attack","Limited Visibility"],
+		"uniques": ["[200]% Strength <vs cities>","No defensive terrain bonus","Must set up to ranged attack","[-1] Sight"],
 		"attackSound": "throw"
 	},
 		{
@@ -682,7 +682,7 @@
 		"strength": 28,
 		"cost": 120,
 		"requiredTech": "Chivalry",
-		"uniques": ["+[50]% Strength vs [City]","No defensive terrain bonus","Limited Visibility"],
+		"uniques": ["[50]% Strength <vs cities>","No defensive terrain bonus","[-1] Sight"],
 		"attackSound": "throw"
 	},
 	{
@@ -730,7 +730,7 @@
 		"strength": 20,
 		"cost": 90,
 		"requiredTech": "Civil Service",
-		"uniques": ["+[50]% Strength vs [Mounted]"],
+		"uniques": ["[50]% Strength <vs [Mounted] units>"],
 		"upgradesTo": "Longswordsman",
 		"attackSound": "metalhit"
 	},
@@ -743,7 +743,7 @@
 		"strength": 22,
 		"cost": 90,
 		"requiredTech": "Civil Service",
-		"uniques": ["+[50]% Strength vs [Mounted]","+[25]% combat bonus in [Friendly Land]"],
+		"uniques": ["[50]% Strength <vs [Mounted] units>","+[25]% combat bonus in [Friendly Land]"],
 		"upgradesTo": "Longswordsman",
 		"attackSound": "metalhit"
 	},
@@ -811,7 +811,7 @@
 		"strength": 21,
 		"cost": 120,
 		"requiredTech": "Astronomy",
-		"uniques": ["+1 Visibility Range","May withdraw before melee ([80]%)"],
+		"uniques": ["[+1] Sight","May withdraw before melee ([80]%)"],
 		"hurryCostModifier": 30
 	},
 	{
@@ -822,7 +822,7 @@
 		"rangedStrength": 21,
 		"cost": 185,
 		"requiredTech": "Chemistry",
-		"uniques": ["+[200]% Strength vs [City]","No defensive terrain bonus","Must set up to ranged attack","Limited Visibility"]
+		"uniques": ["[200]% Strength <vs cities>","No defensive terrain bonus","Must set up to ranged attack","[-1] Sight"]
 	},
 		{
 		"name": "Explosive Mine",
@@ -835,7 +835,7 @@
 		"rangedStrength": 25,
 		"cost": 160,
 		"requiredTech": "Chemistry",
-		"uniques": ["+[400]% Strength vs [City]","No defensive terrain bonus","Must set up to ranged attack","Limited Visibility","Self-destructs when attacking"],
+		"uniques": ["[400]% Strength <vs cities>","No defensive terrain bonus","Must set up to ranged attack","[-1] Sight","Self-destructs when attacking"],
 	},
 	{
 		"name": "Frigate",
@@ -896,7 +896,7 @@
 		"cost": 245,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","+[50]% Strength vs [Melee]","No defensive terrain bonus","Penalty vs City 33%"],
+		"uniques": ["Can move after attacking","[50]% Strength <vs [Melee] units>","No defensive terrain bonus","Penalty vs City 33%"],
 		"promotions": ["Formation I"],
 		"attackSound": "horse"
 	},
