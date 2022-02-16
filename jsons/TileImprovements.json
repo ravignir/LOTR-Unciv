@@ -11,7 +11,7 @@
 			"[+1 Food] from [non-fresh water] tiles <after discovering [Civil Service]>"],
 		"shortcutKey": "F"
 	},
-		{
+	{
 		"name": "Mill",
 		"uniqueTo": "Angmar",
 		"replaces": "Farm",
@@ -31,7 +31,7 @@
 		"uniques": ["[+1 Production] <after discovering [Metal Casting]>"],
 		"shortcutKey": "L"
 	},
-		{
+	{
 		"name": "Mallorn Grove",
 		"terrainsCanBeBuiltOn": ["Forest","Jungle"],
 		"uniqueTo": "Sindar Elves",
@@ -51,7 +51,7 @@
 		"uniques": ["[+1 Production] <after discovering [Iron Working]>"],
 		"shortcutKey": "M"
 	},
-		{
+	{
 		"name": "Encampment",
 		"uniqueTo": "Rhun",
 		"terrainsCanBeBuiltOn": ["Oasis"],
@@ -190,13 +190,24 @@
 	},
 	{
 		"name": "Citadel",
-		"uniques": ["Gives a defensive bonus of [100]%", "Adjacent enemy units ending their turn take [30] damage", "Great Improvement", "Can be built just outside your borders"]
+		"uniques": ["Gives a defensive bonus of [100]%", "Adjacent enemy units ending their turn take [30] damage", 
+			"Great Improvement", "Can be built just outside your borders"]
 	},
-
-	//Civilization unique improvements
 	
-	{ "name": "Ancient ruins", "uniques": ["Unpillagable"] },
-	{ "name": "City ruins", "uniques": ["Unpillagable"] },
-	{ "name": "City center", "uniques": ["Unpillagable","Provides [3] [Supply]"] },
-	{ "name": "Barbarian encampment", "uniques": ["Unpillagable"] }
+	{ 
+		"name": "Ancient ruins", 
+		"uniques": ["Unpillagable", "Provides a random bonus when entered"]
+	},
+	{ 
+		"name": "City ruins", 
+		"uniques": ["Unpillagable"]
+	},
+	{ 
+		"name": "City center", 
+		"uniques": ["Unpillagable", "Indestructible", "Provides [3] [Supply]"]
+	},
+	{ 
+		"name": "Barbarian encampment", 
+		"uniques": ["Unpillagable"]
+	}
 ]

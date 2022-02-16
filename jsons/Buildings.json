@@ -1,302 +1,321 @@
 [	
 
 	// Victory Specific
-		{
+	{
 		"name": "Elven Ring1",
 		"isNationalWonder": true,
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Requires [Tradition Complete]","Provides [1] [Ring]","Consumes [1] [Elven Rings]","Not displayed as an available construction without [Elven Rings]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Requires [Tradition Complete]", "Provides [1] [Ring]", "Consumes [1] [Elven Rings]",
+				"Only available <with [Elven Rings]>", "Can only be built [in capital]"]
 	},
-			{
+	{
 		"name": "Elven Ring2",
 		"isNationalWonder": true,
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Requires [Liberty Complete]","Provides [1] [Ring]","Consumes [1] [Elven Rings]","Not displayed as an available construction without [Elven Rings]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Requires [Liberty Complete]", "Provides [1] [Ring]", "Consumes [1] [Elven Rings]", 
+				"Only available <with [Elven Rings]>", "Can only be built [in capital]"]
 	},
-			{
+	{
 		"name": "Elven Ring3",
 		"isNationalWonder": true,
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Requires [Honor Complete]","Provides [1] [Ring]","Consumes [1] [Elven Rings]","Not displayed as an available construction without [Elven Rings]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Requires [Honor Complete]", "Provides [1] [Ring]", "Consumes [1] [Elven Rings]",
+				"Only available <with [Elven Rings]>", "Can only be built [in capital]"]
 	},
-			{
+	{
 		"name": "Elven Ring4",
 		"isNationalWonder": true,
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Requires [Piety Complete]","Provides [1] [Ring]","Consumes [1] [Elven Rings]","Not displayed as an available construction without [Elven Rings]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Requires [Piety Complete]", "Provides [1] [Ring]", "Consumes [1] [Elven Rings]",
+				"Only available <with [Elven Rings]>", "Can only be built [in capital]"]
 	},
-			{
+	{
 		"name": "Elven Ring5",
 		"isNationalWonder": true,
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Requires [Rationalism Complete]","Provides [1] [Ring]","Consumes [1] [Elven Rings]","Not displayed as an available construction without [Elven Rings]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Requires [Rationalism Complete]", "Provides [1] [Ring]", "Consumes [1] [Elven Rings]",
+				"Only available <with [Elven Rings]>", "Can only be built [in capital]"]
 	},
-			{
+	{
 		"name": "Elven Ring6",
 		"isNationalWonder": true,
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Requires [Commerce Complete]","Provides [1] [Ring]","Consumes [1] [Elven Rings]","Not displayed as an available construction without [Elven Rings]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Requires [Commerce Complete]", "Provides [1] [Ring]", "Consumes [1] [Elven Rings]",
+				"Only available <with [Elven Rings]>", "Can only be built [in capital]"]
 	},
-			{
+	{
 		"name": "Elven Ring7",
 		"isNationalWonder": true,
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Requires [Freedom Complete]","Provides [1] [Ring]","Consumes [1] [Elven Rings]","Not displayed as an available construction without [Elven Rings]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Requires [Freedom Complete]", "Provides [1] [Ring]", "Consumes [1] [Elven Rings]",
+				"Only available <with [Elven Rings]>", "Can only be built [in capital]"]
 	},
-			{
+	{
 		"name": "Elven Ring8",
 		"isNationalWonder": true,
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Requires [Autocracy Complete]","Provides [1] [Ring]","Consumes [1] [Elven Rings]","Not displayed as an available construction without [Elven Rings]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Requires [Autocracy Complete]", "Provides [1] [Ring]", "Consumes [1] [Elven Rings]",
+				"Only available <with [Elven Rings]>", "Can only be built [in capital]"]
 	},
-			{
+	{
 		"name": "Men Ring1",
 		"isNationalWonder": true,
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Men Rings]","Consumes [4] [Supply]","Not displayed as an available construction without [Men Rings]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Consumes [1] [Men Rings]", "Consumes [4] [Supply]", 
+				"Only available <with [Men Rings]>", "Can only be built [in capital]"]
 	},
-				{
+	{
 		"name": "Men Ring2",
 		"isNationalWonder": true,
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Men Rings]","Consumes [4] [Supply]","Not displayed as an available construction without [Men Rings]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Consumes [1] [Men Rings]", "Consumes [4] [Supply]",
+				"Only available <with [Men Rings]>", "Can only be built [in capital]"]
 	},
-				{
+	{
 		"name": "Men Ring3",
 		"isNationalWonder": true,
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Men Rings]","Consumes [4] [Supply]","Not displayed as an available construction without [Men Rings]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Consumes [1] [Men Rings]", "Consumes [4] [Supply]",
+				"Only available <with [Men Rings]>", "Can only be built [in capital]"]
 	},
-				{
+	{
 		"name": "Men Ring4",
 		"isNationalWonder": true,
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Men Rings]","Consumes [4] [Supply]","Not displayed as an available construction without [Men Rings]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Consumes [1] [Men Rings]", "Consumes [4] [Supply]",
+				"Only available <with [Men Rings]>", "Can only be built [in capital]"]
 	},
-				{
+	{
 		"name": "Men Ring5",
 		"isNationalWonder": true,
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Men Rings]","Consumes [4] [Supply]","Not displayed as an available construction without [Men Rings]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Consumes [1] [Men Rings]", "Consumes [4] [Supply]",
+				"Only available <with [Men Rings]>", "Can only be built [in capital]"]
 	},
-				{
+	{
 		"name": "Men Ring6",
 		"isNationalWonder": true,
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Men Rings]","Consumes [4] [Supply]","Not displayed as an available construction without [Men Rings]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Consumes [1] [Men Rings]", "Consumes [4] [Supply]",
+				"Only available <with [Men Rings]>", "Can only be built [in capital]"]
 	},
-				{
+	{
 		"name": "Men Ring7",
 		"isNationalWonder": true,
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Men Rings]","Consumes [4] [Supply]","Not displayed as an available construction without [Men Rings]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Consumes [1] [Men Rings]", "Consumes [4] [Supply]",
+				"Only available <with [Men Rings]>", "Can only be built [in capital]"]
 	},
-				{
+	{
 		"name": "Men Ring8",
 		"isNationalWonder": true,
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Men Rings]","Consumes [4] [Supply]","Not displayed as an available construction without [Men Rings]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Consumes [1] [Men Rings]", "Consumes [4] [Supply]",
+				"Only available <with [Men Rings]>", "Can only be built [in capital]"]
 	},
-				{
+	{
 		"name": "Men Ring9",
 		"isNationalWonder": true,
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [1] [Men Rings]","Consumes [4] [Supply]","Not displayed as an available construction without [Men Rings]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Consumes [1] [Men Rings]", "Consumes [4] [Supply]",
+				"Only available <with [Men Rings]>", "Can only be built [in capital]"]
 	},
-				{
+	{
 		"name": "Dwarven Ring1",
 		"isNationalWonder": true,
 		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [2] [Iron]","Not displayed as an available construction without [Iron]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Consumes [2] [Iron]",
+				"Only available <with [Iron]>", "Can only be built [in capital]"]
 	},
-					{
+	{
 		"name": "Dwarven Ring3",
 		"isNationalWonder": true,
 		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Mithril]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Only available <with [Mithril]>", "Can only be built [in capital]"]
 	},
-					{
+	{
 		"name": "Dwarven Ring4",
 		"isNationalWonder": true,
 		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Consumes [2] [Copper]","Not displayed as an available construction without [Copper]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Consumes [2] [Copper]",
+				"Only available <with [Copper]>", "Can only be built [in capital]"]
 	},
-					{
+	{
 		"name": "Dwarven Ring5",
 		"isNationalWonder": true,
 		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Gold Ore]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Only available <with [Gold Ore]>", "Can only be built [in capital]"]
 	},
-						{
+	{
 		"name": "Dwarven Ring6",
 		"isNationalWonder": true,
 		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Gems]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Only available <with [Gems]>", "Can only be built [in capital]"]
 	},
-						{
+	{
 		"name": "Dwarven Ring7",
 		"isNationalWonder": true,
 		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Silver]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Only available <with [Silver]>", "Can only be built [in capital]"]
 	},
-						{
+	{
 		"name": "Dwarven Ring8",
 		"isNationalWonder": true,
 		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Salt]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Only available <with [Salt]>", "Can only be built [in capital]"]
 	},
-							{
+	{
 		"name": "Dwarven Ring9",
 		"isNationalWonder": true,
 		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Dyes]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Only available <with [Dyes]>", "Can only be built [in capital]"]
 	},
-							{
+	{
 		"name": "Dwarven Ring10",
 		"isNationalWonder": true,
 		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Cotton]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Only available <with [Cotton]>", "Can only be built [in capital]"]
 	},
-							{
+	{
 		"name": "Dwarven Ring11",
 		"isNationalWonder": true,
 		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Furs]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Only available <with [Furs]>", "Can only be built [in capital]"]
 	},
-							{
+	{
 		"name": "Dwarven Ring12",
 		"isNationalWonder": true,
 		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Incense]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Only available <with [Incense]>", "Can only be built [in capital]"]
 	},
-							{
+	{
 		"name": "Dwarven Ring13",
 		"isNationalWonder": true,
 		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Ivory]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Only available <with [Ivory]>", "Can only be built [in capital]"]
 	},
-							{
+	{
 		"name": "Dwarven Ring14",
 		"isNationalWonder": true,
 		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Silk]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Only available <with [Silk]>", "Can only be built [in capital]"]
 	},
-							{
+	{
 		"name": "Dwarven Ring15",
 		"isNationalWonder": true,
 		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Spices]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Only available <with [Spices]>", "Can only be built [in capital]"]
 	},
-							{
+	{
 		"name": "Dwarven Ring16",
 		"isNationalWonder": true,
 		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Marble]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Only available <with [Marble]>", "Can only be built [in capital]"]
 	},
-							{
+	{
 		"name": "Dwarven Ring17",
 		"isNationalWonder": true,
 		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Sugar]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Only available <with [Sugar]>", "Can only be built [in capital]"]
 	},
-							{
+	{
 		"name": "Dwarven Ring18",
 		"isNationalWonder": true,
 		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Wine]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Only available <with [Wine]>", "Can only be built [in capital]"]
 	},
-							{
+	{
 		"name": "Dwarven Ring19",
 		"isNationalWonder": true,
 		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Whales]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Only available <with [Whales]>", "Can only be built [in capital]"]
 	},
-							{
+	{
 		"name": "Dwarven Ring20",
 		"isNationalWonder": true,
 		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Pearls]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Only available <with [Pearls]>", "Can only be built [in capital]"]
 	},
-							{
+	{
 		"name": "Dwarven Ring21",
 		"isNationalWonder": true,
 		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Citrus]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Only available <with [Citrus]>", "Can only be built [in capital]"]
 	},
-							{
+	{
 		"name": "Dwarven Ring22",
 		"isNationalWonder": true,
 		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Cocoa]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Only available <with [Cocoa]>", "Can only be built [in capital]"]
 	},
-							{
+	{
 		"name": "Dwarven Ring23",
 		"isNationalWonder": true,
 		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Truffles]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Only available <with [Truffles]>", "Can only be built [in capital]"]
 	},
-							{
+	{
 		"name": "Dwarven Ring24",
 		"isNationalWonder": true,
-				"requiredResource": "Dwarven Rings",
+		"requiredResource": "Dwarven Rings",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Ring]","Not displayed as an available construction without [Crab]","Not displayed as an available construction without [Palace]"]
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Ring]", "Only available <with [Crab]>", "Can only be built [in capital]"]
 	},
-								{
+	{
 		"name": "Train Fellbeast",
 		"uniqueTo": "Mordor",
 		"cost": 120,
 		"requiredTech": "Mathematics",
-		"uniques": ["Will not be displayed in Civilopedia","Provides [1] [Fellbeast]","Unsellable"]
-		},
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [1] [Fellbeast]", "Unsellable"]
+	},
 	{
 		"name": "First Lightning Bolts",
 		"uniqueTo": "Isengard",
 		"cost": -1,
-		"uniques": ["Not displayed as an available construction without [Palace]", "Free [Lightning Bolt] appears", "Unsellable", 
+		"uniques": ["Only available <in cities with a [Palace]>", "Free [Lightning Bolt] appears", "Unsellable", 
 				"Will not be displayed in Civilopedia"]
 	},
 	{
 		"name": "Second Lightning Bolts",
 		"uniqueTo": "Isengard",
 		"cost": -1,
-		"uniques": ["Not displayed as an available construction without [Palace]", "Free [Lightning Bolt] appears", "Unsellable", 
+		"uniques": ["Only available <in cities with a [Palace]>", "Free [Lightning Bolt] appears", "Unsellable", 
 				"Unlocked with [Second Age]", "Will not be displayed in Civilopedia"]
 	},
 	{
 		"name": "Third Lightning Bolt",
 		"uniqueTo": "Isengard",
 		"cost": -1,
-		"uniques": ["Not displayed as an available construction without [Palace]", "Free [Lightning Bolt] appears", "Unsellable", 
+		"uniques": ["Only available <in cities with a [Palace]>", "Free [Lightning Bolt] appears", "Unsellable", 
 				"Unlocked with [Third Age]", "Will not be displayed in Civilopedia"]
 	},
 	{
 		"name": "Fourth Lightning Bolt",
 		"uniqueTo": "Isengard",
 		"cost": -1,
-		"uniques": ["Not displayed as an available construction without [Palace]", "Free [Lightning Bolt] appears", "Unsellable", 
+		"uniques": ["Only available <in cities with a [Palace]>", "Free [Lightning Bolt] appears", "Unsellable", 
 				"Unlocked with [Fourth Age]", "Will not be displayed in Civilopedia"]
     },
 	{
@@ -305,11 +324,11 @@
 		"cost": -1,
 		"uniques": ["Will not be displayed in Civilopedia", "Provides [9] [Nazgul]", "Unbuildable"]
 	},
-												{
+	{
 		"name": "RSupply",
 		"cost": -1,
-		"uniques": ["Will not be displayed in Civilopedia","Provides [3] [Supply]","Unbuildable","Unsellable"]
-		},
+		"uniques": ["Will not be displayed in Civilopedia", "Provides [3] [Supply]", "Unbuildable", "Unsellable"]
+	},
 	{
 		"name": "Watchtower",
 		"uniqueTo": "Arnor",
@@ -329,21 +348,15 @@
 		"uniqueTo": "Harad",
 		"cost": -1,
 		"hurryCostModifier": 40,
-		"uniques": ["Will not be displayed in Civilopedia","New [Haradrim Lancer] units start with [30] Experience in this city","Unbuildable","Unsellable"],
+		"uniques": ["Will not be displayed in Civilopedia", "New [Haradrim Lancer] units start with [30] Experience [in this city]",
+				"Unbuildable","Unsellable"],
 	},
-		{
+	/*{
 		"name": "none",
 		"cost": 20,
 		"hurryCostModifier": 40,
 		"uniques": ["Free [Watcher] appears","Will not be displayed in Civilopedia","Unbuildable"],
-	},
-			{
-		"name": "Rings",
-		"cost": 20,
-		"isNationalWonder": true,
-		"hurryCostModifier": 40,
-		"uniques": ["Provides [3] [Elven Rings]","Provides [9] [Men Rings]","Provides [7] [Dwarven Rings]","Will not be displayed in Civilopedia","Unbuildable","Unsellable"],
-	},
+	},*/
 	
 	// Hero Spawners
 	{
@@ -363,119 +376,119 @@
 		"isWonder": true,
 		"cost": 170,
 		"uniques": ["Free [Gandalf, the Grey] appears", "Unsellable", "Provides [1] [Special]", 
-				"Not displayed as an available construction without [Good Hero]", "Will not be displayed in Civilopedia"],
+				"Only available <with [Good Hero]>", "Will not be displayed in Civilopedia"],
 	},
 	{
 		"name": "Summon Eowyn",
 		"isWonder": true,
 		"cost": 150,
 		"uniques": ["Free [Eowyn] appears", "Unsellable", 
-				"Not displayed as an available construction without [Good Hero]", "Will not be displayed in Civilopedia"],
+				"Only available <with [Good Hero]>", "Will not be displayed in Civilopedia"],
 	},
 	{
 		"name": "Summon Theoden",
 		"isWonder": true,
 		"cost": 170,
 		"uniques": ["Free [Theoden] appears", "Unsellable",
-				"Not displayed as an available construction without [Good Hero]", "Will not be displayed in Civilopedia"],
+				"Only available <with [Good Hero]>", "Will not be displayed in Civilopedia"],
 	},
 	{
 		"name": "Summon Faramir",
 		"isWonder": true,
 		"cost": 175,
 		"uniques": ["Free [Faramir] appears", "Unsellable", 
-				"Not displayed as an available construction without [Good Hero]", "Will not be displayed in Civilopedia"],
+				"Only available <with [Good Hero]>", "Will not be displayed in Civilopedia"],
 	},
 	{
 		"name": "Summon Elrond",
 		"isWonder": true,
 		"cost": 180,
 		"uniques": ["Free [Elrond] appears", "Unsellable", 
-				"Not displayed as an available construction without [Good Hero]", "Will not be displayed in Civilopedia"],
+				"Only available <with [Good Hero]>", "Will not be displayed in Civilopedia"],
 	},
 	{
 		"name": "Summon Aragorn",
 		"isWonder": true,
 		"cost": 185,
 		"uniques": ["Free [Aragorn] appears", "Unsellable", 
-				"Not displayed as an available construction without [Good Hero]", "Will not be displayed in Civilopedia"],
+				"Only available <with [Good Hero]>", "Will not be displayed in Civilopedia"],
 	},
 	{
 		"name": "Summon Gimli",
 		"isWonder": true,
 		"cost": 200,
 		"uniques": ["Free [Gimli] appears", "Unsellable", 
-				"Not displayed as an available construction without [Good Hero]", "Will not be displayed in Civilopedia"],
+				"Only available <with [Good Hero]>", "Will not be displayed in Civilopedia"],
 	},
 	{
 		"name": "Summon Galadriel",
 		"isWonder": true,
 		"cost": 220,
 		"uniques": ["Free [Galadriel] appears", "Unsellable", 
-				"Not displayed as an available construction without [Good Hero]", "Will not be displayed in Civilopedia"],
+				"Only available <with [Good Hero]>", "Will not be displayed in Civilopedia"],
 	},
 	{
 		"name": "Summon Legolas",
 		"isWonder": true,
 		"cost": 230,
 		"uniques": ["Free [Legolas] appears", "Unsellable", 
-				"Not displayed as an available construction without [Good Hero]", "Will not be displayed in Civilopedia"],
+				"Only available <with [Good Hero]>", "Will not be displayed in Civilopedia"],
 	},
 	{
 		"name": "Summon Wormtongue",
 		"isWonder": true,
 		"cost": 140,
 		"uniques": ["Free [Wormtongue] appears", "Unsellable", 
-				"Not displayed as an available construction without [Evil Hero]", "Will not be displayed in Civilopedia"],
+				"Only available <with [Evil Hero]>", "Will not be displayed in Civilopedia"],
 	},
 	{
 		"name": "Summon Gothmog",
 		"isWonder": true,
 		"cost": 150,
 		"uniques": ["Free [Gothmog] appears", "Unsellable", 
-				"Not displayed as an available construction without [Evil Hero]", "Will not be displayed in Civilopedia"],
+				"Only available <with [Evil Hero]>", "Will not be displayed in Civilopedia"],
 	},
 	{
 		"name": "Summon Azog",
 		"isWonder": true,
 		"cost": 190,
 		"uniques": ["Free [Azog] appears", "Unsellable", 
-				"Not displayed as an available construction without [Evil Hero]", "Will not be displayed in Civilopedia"],
+				"Only available <with [Evil Hero]>", "Will not be displayed in Civilopedia"],
 	},
 	{
 		"name": "Summon Smaug",
 		"isWonder": true,
 		"cost": 220,
 		"uniques": ["Free [Smaug] appears", "Unsellable", 
-				"Not displayed as an available construction without [Evil Hero]", "Will not be displayed in Civilopedia"],
+				"Only available <with [Evil Hero]>", "Will not be displayed in Civilopedia"],
 	},
 	{
 		"name": "Summon Saruman",
 		"isWonder": true,
 		"cost": 225,
 		"uniques": ["Free [Saruman] appears", "Unsellable", 
-				"Not displayed as an available construction without [Evil Hero]", "Will not be displayed in Civilopedia"],
+				"Only available <with [Evil Hero]>", "Will not be displayed in Civilopedia"],
 	},
 	{
 		"name": "Summon Shelob",
 		"isWonder": true,
 		"cost": 240,
 		"uniques": ["Free [Shelob] appears", "Unsellable", 
-				"Not displayed as an available construction without [Evil Hero]", "Will not be displayed in Civilopedia"],
+				"Only available <with [Evil Hero]>", "Will not be displayed in Civilopedia"],
 	},
 	{
 		"name": "Summon Witch-king",
 		"isWonder": true,
 		"cost": 260,
 		"uniques": ["Free [Witch-king] appears", "Unsellable", 
-				"Not displayed as an available construction without [Evil Hero]", "Will not be displayed in Civilopedia"],
+				"Only available <with [Evil Hero]>", "Will not be displayed in Civilopedia"],
 	},
 	{
 		"name": "Summon Mouth of Sauron",
 		"isWonder": true,
 		"cost": 270,
 		"uniques": ["Free [Mouth of Sauron] appears", "Unsellable", 
-				"Not displayed as an available construction without [Evil Hero]", "Will not be displayed in Civilopedia"],
+				"Only available <with [Evil Hero]>", "Will not be displayed in Civilopedia"],
 	},
 	
 	// First Age
@@ -489,7 +502,7 @@
 		"culture": 1,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["[-60]% Culture cost of adopting new Policies","[+50]% [Culture] [in all cities]","Indicates the capital city"]
+		"uniques": ["Provides [3] [Elven Rings]", "Provides [9] [Men Rings]", "Provides [7] [Dwarven Rings]", "Indicates the capital city"]
 	},
 	{
 		"name": "Monument",
@@ -1086,39 +1099,37 @@
 		"uniques": ["Empire enters golden age"],
 		"requiredTech": "Architecture",
 	},
-	
-	// Renaissance Era
 	{
 		"name": "Meduseld",
 		"culture": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"production": 2},
-		"providesFreeBuilding": "Castle",
-		"uniques": ["+[15]% combat bonus for units fighting in [Friendly Land]"],
+		"uniques": ["[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>", "Gain a free [Castle] [in this city]"],
 		"requiredTech": "Economics",
-		},
+	},
 	{
 		"name": "Windmill",
 		"production": 2,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"maintenance": 2,
-		"uniques": ["Must not be on [Hill]", "[10]% Production when constructing [Buildings] buildings [in this city]"],
+		"uniques": ["Must not be on [Hill]", "[+10]% Production when constructing [All] buildings [in this city]"],
 		"requiredTech": "Economics"
 	},
-		{
+	
+	{
 		"name": "Enable Ring Victory",
 		"cost": -1,
 		"isNationalWonder": true,
 		"uniques": ["Enables construction of Spaceship parts"],
-		"requiredTech": "Agriculture",
+		"requiredTech": "Agriculture"
 	},
 	{
 		"name": "The One Ring to rule them all",
 		"cost": 15,
-				"isNationalWonder": true,
+		"isNationalWonder": true,
 		"requiredBuilding": "Enable Ring Victory",
-		"uniques": ["Triggers victory","Consumes [19] [Ring]","Not displayed as an available construction without [Enable Ring Victory]"]
-		"requiredTech": "Agriculture",
-	},
+		"uniques": ["Triggers victory", "Consumes [19] [Ring]", "Only available <in cities with a [Enable Ring Victory]>"]
+		"requiredTech": "Agriculture"
+	}
 ]

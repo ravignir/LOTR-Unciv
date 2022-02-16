@@ -1,0 +1,14 @@
+{
+	"name": "Global uniques", 
+	"uniques": [
+		"[-60]% Culture cost of adopting new Policies",
+		"[+50]% [Culture] [in all cities]",
+		"[-25]% unhappiness from population [in all cities]",
+		"[-50]% growth [in all cities] <when between [-10] and [0] Happiness>",
+		"Nullifies Growth [in all cities] <when below [-10] Happiness>",
+		"[-33]% [Production] [in all cities] <when below [-10] Happiness>",
+		"[-33]% Strength <for [All] units> <when below [-10] Happiness>",
+		"Cannot build [Settler] units <when below [-10] Happiness>",
+		"Rebel units may spawn <when below [-25] Happiness>"
+	]
+}

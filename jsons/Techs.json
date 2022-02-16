@@ -299,6 +299,7 @@
 			{
 				"name": "Navigation",
 				"row": 2,
+				"uniques": ["Reveals the entire map"],
 				"prerequisites": ["Astronomy"],
 				"quote": "'The winds and the waves are always on the side of the ablest navigators.' - Edward Gibbon"
 			},
@@ -340,7 +341,7 @@
 			],
 			},
 					{
-		"columnNumber": 19,
+		"columnNumber": 10,
 		"era": "Fourth Age",
 		"techCost": 4500, 
 		"buildingCost": 300,
@@ -420,7 +421,7 @@
 			],
 			},
 					{
-		"columnNumber": 20,
+		"columnNumber": 11,
 		"era": "Fourth Age",
 		"techCost": 4500, 
 		"buildingCost": 300,
@@ -436,7 +437,7 @@
 			],
 			},
 								{
-		"columnNumber": 21,
+		"columnNumber": 12,
 		"era": "Fourth Age",
 		"techCost": 4500, 
 		"buildingCost": 300,
@@ -516,7 +517,7 @@
 			],
 			},
 								{
-		"columnNumber": 22,
+		"columnNumber": 13,
 		"era": "Fourth Age",
 		"techCost": 4500, 
 		"buildingCost": 300,
@@ -532,7 +533,7 @@
 			],
 			},
 								{
-		"columnNumber": 23,
+		"columnNumber": 14,
 		"era": "Fourth Age",
 		"techCost": 4500, 
 		"buildingCost": 300,
@@ -612,7 +613,7 @@
 			],
 			},
 											{
-		"columnNumber": 24,
+		"columnNumber": 15,
 		"era": "Fourth Age",
 		"techCost": 4500, 
 		"buildingCost": 300,
@@ -626,85 +627,5 @@
 				"quote": "'I think we agree, the past is over.' - George W. Bush"
 			},
 			],
-			},
-								{
-		"columnNumber": 25,
-		"era": "Fourth Age",
-		"techCost": 4500, 
-		"buildingCost": 300,
-		"wonderCost": 750,
-		"techs": [						
-		{
-				"name": "Future Tech1111",
-				"row": 1,
-				"prerequisites": ["Future Tec"],
-				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
-				"quote": "'I think we agree, the past is over.' - George W. Bush"
-			},
-			{
-				"name": "Future Tech2111",
-				"row": 2,
-				"prerequisites": ["Future Tec"],
-				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
-				"quote": "'I think we agree, the past is over.' - George W. Bush"
-			},
-			{
-				"name": "Future Tech3111",
-				"row": 3,
-				"prerequisites": ["Future Tec"],
-				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
-				"quote": "'I think we agree, the past is over.' - George W. Bush"
-			},
-			{
-				"name": "Future Tech4111",
-				"row": 4,
-				"prerequisites": ["Future Tec"],
-				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
-				"quote": "'I think we agree, the past is over.' - George W. Bush"
-			},
-			{
-				"name": "Future Tech5111",
-				"row": 5,
-				"prerequisites": ["Future Tec"],
-				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
-				"quote": "'I think we agree, the past is over.' - George W. Bush"
-			},
-			{
-				"name": "Future Tech6111",
-				"row": 6,
-				"prerequisites": ["Future Tec"],
-				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
-				"quote": "'I think we agree, the past is over.' - George W. Bush"
-			},
-			{
-				"name": "Future Tech7111",
-				"row": 7,
-				"prerequisites": ["Future Tec"],
-				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
-				"quote": "'I think we agree, the past is over.' - George W. Bush"
-			},
-			{
-				"name": "Future Tech8111",
-				"row": 8,
-				"prerequisites": ["Future Tec"],
-				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
-				"quote": "'I think we agree, the past is over.' - George W. Bush"
-			},
-			{
-				"name": "Future Tech9111",
-				"row": 9,
-				"prerequisites": ["Future Tec"],
-				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
-				"quote": "'I think we agree, the past is over.' - George W. Bush"
-			},
-			{
-				"name": "Future Tech10111",
-				"row": 10,
-				"prerequisites": ["Future Tec"],
-				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
-				"quote": "'I think we agree, the past is over.' - George W. Bush"
-			},
-			
-			],
-			},
+			}
 ]
