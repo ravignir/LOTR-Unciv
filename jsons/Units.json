@@ -40,9 +40,10 @@
 		"unitType": "Melee",
 		"movement": 2,
 		"strength": 16,
+		"requiredResource": "Special",
 		"promotions": ["Hero"],
 		"upgradesTo": "Gandalf, the White",
-		"uniques": ["Consumes [1] [Special]", "Unbuildable", "[200]% Strength <vs [Balrog] units>"],
+		"uniques": ["Unbuildable", "[+200]% Strength <vs [Balrog] units>"],
 	},
 	{
 		"name": "Gandalf, the White",
@@ -52,10 +53,10 @@
 		"rangedStrength": 14,
 		"range": 1,
 		"cost": 120,
+		"requiredResource": "Special",
 		"promotions": ["Hero"],
 		"requiredTech": "Horseback Riding",
-		"uniques": ["Consumes [1] [Special]", "Not displayed as an available construction without [Special]", 
-			"[200]% Strength <vs [Balrog] units>", "Ignores Zone of Control"],
+		"uniques": ["Only available <with [Special]", "[+200]% Strength <vs [Balrog] units>", "Ignores Zone of Control", "Never appears as a Barbarian unit"],
 	},
 	{
 		"name": "Eowyn",
@@ -63,7 +64,7 @@
 		"movement": 5,
 		"strength": 14,
 		"promotions": ["Hero"],
-		"uniques": ["Unbuildable", "[300]% Strength <vs [Witch-King] units>"],
+		"uniques": ["Unbuildable", "[+300]% Strength <vs [Witch-King] units>"],
 	},
 	{
 		"name": "Theoden",
@@ -122,7 +123,7 @@
 		"strength": 14,
 		"rangedStrength": 18,
 		"promotions": ["Hero","Logistics"],
-		"uniques": ["Unbuildable", "[50]% Strength <vs [Melee] units>"],
+		"uniques": ["Unbuildable", "[+50]% Strength <vs [Melee] units>"],
 	},
 	
 	{
@@ -202,7 +203,8 @@
 		"rangedStrength": 28,
 		"range": 1,
 		"promotions": ["Hero"],
-		"uniques": ["Unbuildable", "Must set up to ranged attack", "Will not be displayed in Civilopedia"]
+		"uniques": ["Unbuildable", "Must set up to ranged attack", "Only available <in cities with a [Palace]>", 
+			"Will not be displayed in Civilopedia"]
 	},
 	
 	// First Age
@@ -360,7 +362,7 @@
 		"cost": 75,
 		"requiredTech": "The Wheel",
 		"upgradesTo": "Knight",
-		"uniques": ["[50]% Strength <vs cities>", "No defensive terrain bonus", "Rough terrain penalty"],
+		"uniques": ["[+50]% Strength <vs cities>", "No defensive terrain bonus", "Rough terrain penalty"],
 		"attackSound": "throw"
 	},
 	{
@@ -888,26 +890,26 @@
 	{
 		"name": "Great Artist",
 		"unitType": "Civilian",
-		"uniques": ["Can start an [8]-turn golden age", "Can construct [Landmark]", "Great Person - [Culture]", "Unbuildable"],
+		"uniques": ["Can start an [8]-turn golden age", "Can construct [Landmark]", "Great Person - [Culture]", "Unbuildable", "Uncapturable"],
 		"movement": 2
 	},
 	{
 		"name": "Great Scientist",
 		"unitType": "Civilian",
-		"uniques": ["Can hurry technology research", "Can construct [Academy]", "Great Person - [Science]", "Unbuildable"],
+		"uniques": ["Can hurry technology research", "Can construct [Academy]", "Great Person - [Science]", "Unbuildable", "Uncapturable"],
 		"movement": 2
 	},
 	{
 		"name": "Great Merchant",
 		"unitType": "Civilian",
 		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
-			"Can construct [Customs house]", "Great Person - [Gold]", "Unbuildable"],
+			"Can construct [Customs house]", "Great Person - [Gold]", "Unbuildable", "Uncapturable"],
 		"movement": 2
 	},
 	{
 		"name": "Great Engineer",
 		"unitType": "Civilian",
-		"uniques": ["Can speed up construction of a wonder", "Can construct [Manufactory]", "Great Person - [Production]", "Unbuildable"],
+		"uniques": ["Can speed up construction of a wonder", "Can construct [Manufactory]", "Great Person - [Production]", "Unbuildable", "Uncapturable"],
 		"movement": 2
 	},
 	{
@@ -938,7 +940,7 @@
 		"requiredResource": "Fellbeast",
 		"uniques": ["Can start an [8]-turn golden age", "[-10]% Strength for enemy [Military] units in adjacent [All] tiles", 
 			"Bonus for units in 2 tile radius 15%", "Will not be displayed in Civilopedia", "Can move after attacking", 
-			"Can construct [Citadel]", "Consumes [1] [Nazgul]", "Ignores terrain cost", "Not displayed as an available construction without [Block]"],
+			"Can construct [Citadel]", "Consumes [1] [Nazgul]", "Ignores terrain cost", "Only available <with [Block]>"],
 		"movement": 5,
 		"cost": 120,
 	}

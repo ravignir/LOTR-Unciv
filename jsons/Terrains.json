@@ -72,7 +72,8 @@
 		"impassable": true,
 				"defenceBonus": 0.25,
 		"RGB": [120, 120, 120],
-		"uniques":["Has an elevation of [4] for visibility calculations","[+5] Strength for cities built on this terrain","[+1] Sight for [Land] units"]
+		"uniques":["Has an elevation of [4] for visibility calculations",
+				"[+5] Strength for cities built on this terrain","[+1] Sight for [Land] units"]
 	},
 	{
 		"name": "Mountains",
@@ -80,7 +81,8 @@
 		"movementCost": 4,
 				"defenceBonus": 0.25,
 		"RGB": [120, 120, 120],
-		"uniques":["Has an elevation of [4] for visibility calculations","[+5] Strength for cities built on this terrain","[+1] Sight for [Land] units"]
+		"uniques":["Has an elevation of [4] for visibility calculations",
+				"[+5] Strength for cities built on this terrain","[+1] Sight for [Land] units"]
 	},
 	{
 		"name": "Snow",
@@ -101,7 +103,7 @@
 		"RGB": [105,125,72],
 		"occursOn": ["Tundra","Plains","Grassland","Desert","Snow","Mordor Plains"],
 		"uniques": ["Rough terrain","[+3] Strength for cities built on this terrain",
-			 "Has an elevation of [2] for visibility calculations"]
+				"Has an elevation of [2] for visibility calculations"]
 	},
 	{
 		"name": "Forest",
@@ -114,7 +116,7 @@
 		"defenceBonus": 0.25,
 		"occursOn": ["Tundra","Plains","Grassland","Hill"],
 		"uniques": ["Provides a one-time Production bonus to the closest city when cut down", "Rough terrain",
-			"Has an elevation of [1] for visibility calculations"]
+				"Has an elevation of [1] for visibility calculations"]
 	},
 	{
 		"name": "Jungle",
@@ -197,6 +199,7 @@
 		"science": 2,
 		"occursOn": ["Ocean"],
 		"movementCost": 2,
+		"uniques": ["Must be adjacent to [1] to [6] [Coast] tiles", "Occurs in groups of [1] to [2] tiles"],
 		"turnsInto": "Coast",
 		"unbuildable": true,
 		"weight": 10
@@ -204,11 +207,11 @@
 	{
 		"name": "Old Faithful",
 		"type": "NaturalWonder",
-		"science": 2,
+		"science": 3,
 		"happiness": 3,
 		"occursOn": ["Grassland","Plains","Tundra","Mountains"],
 		"turnsInto": "Mountains",
-				"movementCost": 2,
+		"movementCost": 2,
 		"unbuildable": true,
 		"weight": 10
 	},
@@ -219,19 +222,19 @@
 		"occursOn": ["Plains"],
 		"turnsInto": "Plains",
 		"unbuildable": true,
-				"movementCost": 2,
+		"movementCost": 2,
 		"uniques": ["Grants 500 Gold to the first civilization to discover it"],
 		"weight": 2
 	},
-	{ // This will count as "Fresh water" in civ 6
+	{
 		"name": "Fountain of Youth",
 		"type": "NaturalWonder",
 		"happiness": 10,
 		"occursOn": ["Plains"],
 		"turnsInto": "Plains",
-				"movementCost": 3,
+		"movementCost": 3,
 		"unbuildable": true,
-		"uniques": ["Grants Rejuvenation (all healing effects doubled) to adjacent military land units for the rest of the game"],
+		"uniques": ["Fresh water", "Grants [Rejuvenation] ([all healing effects doubled]) to adjacent [{Military} {Land}] units for the rest of the game"],
 		"weight": 1
 	},
 	{
@@ -239,11 +242,11 @@
 		"type": "NaturalWonder",
 		"production": 2,
 		"gold": 3,
+		"food": 1,
 		"occursOn": ["Plains","Desert","Tundra"],
 		"turnsInto": "Mountains",
 		"defenceBonus": 0.25,
-
-				"movementCost": 2,
+		"movementCost": 2,
 		"unbuildable": true,
 		"weight": 10
 	},
@@ -253,20 +256,25 @@
 		"gold": 1,
 		"culture": 5,
 		"occursOn": ["Grassland","Plains"],
+		"uniques": ["Must be adjacent to [0] [Coast] tiles"],
 		"turnsInto": "Mountains",
-				"defenceBonus": 0.25,
-				"movementCost": 3,
+		"defenceBonus": 0.25,
+		"movementCost": 3,
 		"unbuildable": true,
 		"weight": 10
 	},
 	{
 		"name": "Krakatoa",
 		"type": "NaturalWonder",
-		"science": 5,
+		"science": 6,
+		"food": 2,
 		"occursOn": ["Ocean"],
+		"uniques": ["Must be adjacent to [1] to [6] [Coast] tiles",
+				"Must be adjacent to [0] [Ice] tiles",
+				"Neighboring tiles will convert to [Coast]"],
 		"turnsInto": "Mountains",
-				"defenceBonus": 0.25,
-				"movementCost": 5,
+		"defenceBonus": 0.25,
+		"movementCost": 5,
 		"unbuildable": true,
 		"weight": 10
 	},
@@ -274,10 +282,10 @@
 		"name": "Rock of Gibraltar",
 		"type": "NaturalWonder",
 		"food": 2,
-		"gold": 5,
+		"gold": 6,
 		"occursOn": ["Grassland"],
-				"defenceBonus": 0.15,
-				"movementCost": 2,
+		"defenceBonus": 0.15,
+		"movementCost": 2,
 		"turnsInto": "Mountains",
 		"unbuildable": true,
 		"weight": 10
@@ -285,23 +293,24 @@
 	{
 		"name": "Cerro de Potosi",
 		"type": "NaturalWonder",
-		"gold": 10,
+		"gold": 8,
+		"production": 2,
 		"occursOn": ["Plains","Mountains"],
 		"turnsInto": "Mountains",
-				"defenceBonus": 0.5,
-				"movementCost": 2,
+		"defenceBonus": 0.5,
+		"movementCost": 2,
 		"unbuildable": true,
 		"weight": 5
 	},
 	{
 		"name": "Barringer Crater",
 		"type": "NaturalWonder",
-		"gold": 2,
-		"science": 3,
+		"gold": 3,
+		"science": 5,
 		"occursOn": ["Desert","Tundra"],
 		"turnsInto": "Mountains",
-				"defenceBonus": 0.15,
-				"movementCost": 2,
+		"defenceBonus": 0.15,
+		"movementCost": 2,
 		"unbuildable": true,
 		"weight": 10
 	}
