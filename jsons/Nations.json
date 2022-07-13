@@ -87,7 +87,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "The Voice of Saruman",
 		"uniqueText": "67% chance to earn 25 Gold and recruit a Barbarian unit from a conquered encampment. +25% Production towards Land units in capital. Capital can struck a Lighting Bolt (1 per Era) on the nearby enemies."
-		"uniques": ["Gain a free [RSupply] [in all cities]","Gain a free [Rings] [in capital]","Gain a free [Evil] [in capital]","67% chance to earn 25 Gold and recruit a Barbarian unit from a conquered encampment","[+25]% Production when constructing [Land] units [in capital]","May cast a lightning bolt"],
+		"uniques": ["Gain a free [RSupply] [in all cities]","Gain a free [Rings] [in capital]","Gain a free [Evil] [in capital]","When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>","[+25]% Production when constructing [Land] units [in capital]","May cast a lightning bolt"],
 		"cities": ["Isengard","Angrenost","Fords of Isen","Nan Curunir","Dol Baran","Angren River","Gwathlo","Methedras","Adorn","Wellinghall","Dunbog","Starkmoor","Pren Gwydh","Bonevales","Ral Methedras","Derndingle"]
 	},
 				{

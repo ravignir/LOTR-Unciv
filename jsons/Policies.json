@@ -75,7 +75,7 @@
 			},
 			{
 				"name": "Meritocracy",
-				"uniques": ["[+1 Happiness] [in all cities connected to capital]", "[-5]% unhappiness from population [in all non-occupied cities]"],
+				"uniques": ["[+1 Happiness] [in all cities connected to capital]", "[-5]% Unhappiness from [Population] [in all non-occupied cities]"],
 				"requires": ["Citizenship"],
 				"row": 2,
 				"column": 5
@@ -265,7 +265,7 @@
 	{
 		"name": "Rationalism",
 		"era": "Second Age",
-		"uniques": ["Production to science conversion in cities increased by 33%"],
+		"uniques": ["Production to [Science] conversion in cities changed by [33]%"],
 		"policies": [
 			{
 				"name": "Secularism",
