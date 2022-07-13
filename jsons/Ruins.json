@@ -33,4 +33,5 @@
  { "name": "reveal nearby Barbarian camps",
  "notification": "You find evidence of Barbarian activity. Nearby Barbarian camps are revealed!",
  "uniques": ["Reveal up to [All] [Barbarian encampment] within a [10] tile radius"] },
-// { "name": "find a crudely-drawn map", "notification": "We have found a crudely-drawn map in the ruins!", "uniques": ["From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [4] tiles away with [80]% chance"] }]
+// { "name": "find a crudely-drawn map", "notification": "We have found a crudely-drawn map in the ruins!", "uniques": ["From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [4] tiles away with [80]% chance"] }
+]
