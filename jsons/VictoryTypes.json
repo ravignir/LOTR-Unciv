@@ -29,7 +29,7 @@
         "name": "Ring Victory",
         "hiddenInVictoryScreen": false,
         "victoryScreenHeader": "Insert text here\n insert text here!",
-        "milestones": ["Build [One Ring to rule them all]"],
+        "milestones": ["Build [The One Ring to rule them all]"],
         "victoryString": "Insert text here",
         "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
     },
