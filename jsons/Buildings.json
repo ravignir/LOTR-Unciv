@@ -1118,7 +1118,7 @@
 		"cost": 15,
 				"isNationalWonder": true,
 	        //"requiredBuilding": "Enable Ring Victory",
-		"uniques": [  /*"Triggers victory", */ "Consumes [19] [Ring]" /* ,"Not displayed as an available construction without [Enable Ring Victory]" */]
+		"uniques": ["Consumes [19] [Ring]"]
 		"requiredTech": "Agriculture",
 	},
 ]
